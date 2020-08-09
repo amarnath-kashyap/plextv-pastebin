@@ -1,0 +1,6014 @@
+[
+  {
+    "name": "Colors HD",
+    "link": "Colors_HD",
+    "category": 5,
+    "language": 1,
+    "id": 144,
+    "hd": true,
+    "icon": "Colors_HD.png"
+  },
+  {
+    "name": "Sony HD",
+    "link": "Sony_HD",
+    "category": 5,
+    "language": 1,
+    "id": 291,
+    "hd": true,
+    "icon": "Sony_HD.png"
+  },
+  {
+    "name": "Zee TV HD",
+    "link": "Zee_TV_HD",
+    "category": 5,
+    "language": 1,
+    "id": 167,
+    "hd": true,
+    "icon": "Zee_TV_HD.png"
+  },
+  {
+    "name": "Sony Max HD",
+    "link": "Sony_Max_HD",
+    "category": 6,
+    "language": 1,
+    "id": 476,
+    "hd": true,
+    "icon": "Sony_Max_HD.png"
+  },
+  {
+    "name": "HBO HD",
+    "link": "HBO_HD",
+    "category": 6,
+    "language": 6,
+    "id": 833,
+    "hd": true,
+    "icon": "HBO_HD.png"
+  },
+  {
+    "name": "Zee Cinema HD",
+    "link": "Zee_Cinema_HD",
+    "category": 6,
+    "language": 1,
+    "id": 165,
+    "hd": true,
+    "icon": "Zee_Cinema_HD.png"
+  },
+  {
+    "name": "Sony Six HD",
+    "link": "Six_HD",
+    "category": 8,
+    "language": 6,
+    "id": 155,
+    "hd": true,
+    "icon": "Six_HD.png"
+  },
+  {
+    "name": "Times NOW",
+    "link": "Times_NOW",
+    "category": 12,
+    "language": 6,
+    "id": 383,
+    "hd": false,
+    "icon": "Times_NOW.png"
+  },
+  {
+    "name": "Ten 1 HD",
+    "link": "Ten_HD",
+    "category": 8,
+    "language": 6,
+    "id": 162,
+    "hd": true,
+    "icon": "Ten_HD.png"
+  },
+  {
+    "name": "Aaj Tak",
+    "link": "Aaj_Tak",
+    "category": 12,
+    "language": 1,
+    "id": 173,
+    "hd": false,
+    "icon": "Aaj_Tak.png"
+  },
+  {
+    "name": "BBC Marathi",
+    "link": "BBC_Marathi",
+    "category": 12,
+    "language": 2,
+    "id": 1155,
+    "hd": true,
+    "icon": "BBC_Marathi.png"
+  },
+  {
+    "name": "ABP News India",
+    "link": "ABP_News_India",
+    "category": 12,
+    "language": 1,
+    "id": 177,
+    "hd": false,
+    "icon": "ABP_News_India.png"
+  },
+  {
+    "name": "Ten 2 HD",
+    "link": "Ten2_HD",
+    "category": 8,
+    "language": 6,
+    "id": 891,
+    "hd": true,
+    "icon": "Ten2_HD.png"
+  },
+  {
+    "name": "CNN NEWS 18",
+    "link": "CNN_NEWS_18",
+    "category": 12,
+    "language": 6,
+    "id": 492,
+    "hd": false,
+    "icon": "CNN_NEWS_18.png"
+  },
+  {
+    "name": "MTV HD Plus",
+    "link": "MTV_HD_Plus",
+    "category": 13,
+    "language": 1,
+    "id": 1145,
+    "hd": true,
+    "icon": "MTV_HD_Plus.png"
+  },
+  {
+    "name": "MTV Beats HD",
+    "link": "MTV_Beats_HD",
+    "category": 13,
+    "language": 1,
+    "id": 753,
+    "hd": true,
+    "icon": "MTV_Beats_HD.png"
+  },
+  {
+    "name": "Republic TV",
+    "link": "Republic_TV",
+    "category": 12,
+    "language": 6,
+    "id": 858,
+    "hd": false,
+    "icon": "Republic_TV.png"
+  },
+  {
+    "name": "Mastiii",
+    "link": "Mastiii",
+    "category": 13,
+    "language": 1,
+    "id": 584,
+    "hd": false,
+    "icon": "Mastiii.png"
+  },
+  {
+    "name": "ABP Majha",
+    "link": "ABP_Majha",
+    "category": 12,
+    "language": 2,
+    "id": 612,
+    "hd": false,
+    "icon": "ABP_Majha.png"
+  },
+  {
+    "name": "Nick Hindi",
+    "link": "Nick_Hindi",
+    "category": 7,
+    "language": 1,
+    "id": 545,
+    "hd": false,
+    "icon": "Nick_Hindi.png"
+  },
+  {
+    "name": "TV9 Karnataka",
+    "link": "TV9_Karnataka",
+    "category": 12,
+    "language": 13,
+    "id": 619,
+    "hd": false,
+    "icon": "TV9_Karnataka.png"
+  },
+  {
+    "name": "Pogo Hindi",
+    "link": "Pogo_Hindi",
+    "category": 7,
+    "language": 1,
+    "id": 559,
+    "hd": false,
+    "icon": "Pogo_Hindi.png"
+  },
+  {
+    "name": "Polimer News",
+    "link": "Polimer_News",
+    "category": 12,
+    "language": 8,
+    "id": 636,
+    "hd": false,
+    "icon": "Polimer_News.png"
+  },
+  {
+    "name": "TV9 Telugu News",
+    "link": "TV9_Telugu_News",
+    "category": 12,
+    "language": 11,
+    "id": 618,
+    "hd": false,
+    "icon": "TV9_Telugu_News.png"
+  },
+  {
+    "name": "Cartoon Network Hindi",
+    "link": "Cartoon_Network_Hindi",
+    "category": 7,
+    "language": 1,
+    "id": 816,
+    "hd": false,
+    "icon": "Cartoon_Network_Hindi.png"
+  },
+  {
+    "name": "Discovery HD World",
+    "link": "Discovery_HD_World",
+    "category": 10,
+    "language": 6,
+    "id": 463,
+    "hd": true,
+    "icon": "Discovery_HD_World.png"
+  },
+  {
+    "name": "ABP Ananda",
+    "link": "ABP_Ananda",
+    "category": 12,
+    "language": 5,
+    "id": 672,
+    "hd": false,
+    "icon": "ABP_Ananda.png"
+  },
+  {
+    "name": "Sony BBC Earth HD",
+    "link": "Sony_BBC_Earth_HD",
+    "category": 10,
+    "language": 1,
+    "id": 821,
+    "hd": true,
+    "icon": "Sony_BBC_Earth_HD.png"
+  },
+  {
+    "name": "History TV18 HD",
+    "link": "History_HD",
+    "category": 10,
+    "language": 6,
+    "id": 146,
+    "hd": true,
+    "icon": "History_HD.png"
+  },
+  {
+    "name": "TLC HD",
+    "link": "TLC_HD_World",
+    "category": 9,
+    "language": 6,
+    "id": 479,
+    "hd": true,
+    "icon": "TLC_HD_World.png"
+  },
+  {
+    "name": "Food Food",
+    "link": "Food_Food",
+    "category": 9,
+    "language": 1,
+    "id": 561,
+    "hd": false,
+    "icon": "Food_Food.png"
+  },
+  {
+    "name": "GOOD TiMES",
+    "link": "NDTV_Good_Times",
+    "category": 9,
+    "language": 6,
+    "id": 560,
+    "hd": false,
+    "icon": "NDTV_Good_Times.png"
+  },
+  {
+    "name": "Zee Business",
+    "link": "Zee_Business",
+    "category": 16,
+    "language": 1,
+    "id": 657,
+    "hd": false,
+    "icon": "Zee_Business.png"
+  },
+  {
+    "name": "CNBC Tv18 Prime HD",
+    "link": "CNBC_Tv18_Prime_HD",
+    "category": 16,
+    "language": 6,
+    "id": 143,
+    "hd": true,
+    "icon": "CNBC_Tv18_Prime_HD.png"
+  },
+  {
+    "name": "NDTV Profit",
+    "link": "NDTV_Profit",
+    "category": 16,
+    "language": 6,
+    "id": 259,
+    "hd": false,
+    "icon": "NDTV_Profit.png"
+  },
+  {
+    "name": "CNBC Awaaz",
+    "link": "CNBC_Awaaz",
+    "category": 16,
+    "language": 1,
+    "id": 190,
+    "hd": false,
+    "icon": "CNBC_Awaaz.png"
+  },
+  {
+    "name": "Prathana TV",
+    "link": "Prathana_TV",
+    "category": 15,
+    "language": 10,
+    "id": 595,
+    "hd": false,
+    "icon": "Prathana_TV.png"
+  },
+  {
+    "name": "Aastha",
+    "link": "Aastha",
+    "category": 15,
+    "language": 1,
+    "id": 175,
+    "hd": false,
+    "icon": "Aastha.png"
+  },
+  {
+    "name": "Aastha Bhajan",
+    "link": "Aastha_Bhajan",
+    "category": 15,
+    "language": 1,
+    "id": 594,
+    "hd": false,
+    "icon": "Aastha_Bhajan.png"
+  },
+  {
+    "name": "Sanskar",
+    "link": "Sanskar",
+    "category": 15,
+    "language": 1,
+    "id": 288,
+    "hd": false,
+    "icon": "Sanskar.png"
+  },
+  {
+    "name": "Millionlights",
+    "link": "Millionlights",
+    "category": 17,
+    "language": 6,
+    "id": 968,
+    "hd": true,
+    "icon": "Millionlights.png"
+  },
+  {
+    "name": "India Science",
+    "link": "India_Science",
+    "category": 17,
+    "language": 6,
+    "id": 1433,
+    "hd": false,
+    "icon": "India_Science.png"
+  },
+  {
+    "name": "Swayam Prabha 01",
+    "link": "Swayam_Prabha_01",
+    "category": 17,
+    "language": 6,
+    "id": 980,
+    "hd": false,
+    "icon": "Swayam_Prabha_01.png"
+  },
+  {
+    "name": "Swayam Prabha 02",
+    "link": "Swayam_Prabha_02",
+    "category": 17,
+    "language": 6,
+    "id": 981,
+    "hd": false,
+    "icon": "Swayam_Prabha_02.png"
+  },
+  {
+    "name": "Swayam Prabha 03",
+    "link": "Swayam_Prabha_03",
+    "category": 17,
+    "language": 6,
+    "id": 982,
+    "hd": false,
+    "icon": "Swayam_Prabha_03.png"
+  },
+  {
+    "name": "Sony SAB",
+    "link": "Sony_SAB",
+    "category": 5,
+    "language": 1,
+    "id": 154,
+    "hd": false,
+    "icon": "Sony_SAB.png"
+  },
+  {
+    "name": "And TV HD",
+    "link": "And_TV_HD",
+    "category": 5,
+    "language": 1,
+    "id": 472,
+    "hd": true,
+    "icon": "And_TV_HD.png"
+  },
+  {
+    "name": "Jio Exclusive HD",
+    "link": "Jio_Exclusive",
+    "category": 5,
+    "language": 6,
+    "id": 866,
+    "hd": true,
+    "icon": "Jio_Exclusive.png"
+  },
+  {
+    "name": "Rishtey",
+    "link": "Rishtey",
+    "category": 5,
+    "language": 1,
+    "id": 279,
+    "hd": false,
+    "icon": "Rishtey.png"
+  },
+  {
+    "name": "Zee Anmol",
+    "link": "Zee_Anmol",
+    "category": 5,
+    "language": 1,
+    "id": 473,
+    "hd": false,
+    "icon": "Zee_Anmol.png"
+  },
+  {
+    "name": "Sony Pal",
+    "link": "Sony_Pal",
+    "category": 5,
+    "language": 1,
+    "id": 474,
+    "hd": false,
+    "icon": "Sony_Pal.png"
+  },
+  {
+    "name": "Sony SAB HD",
+    "link": "Sony_SAB_HD",
+    "category": 5,
+    "language": 1,
+    "id": 471,
+    "hd": true,
+    "icon": "Sony_SAB_HD.png"
+  },
+  {
+    "name": "Zee Marathi",
+    "link": "Zee_Marathi",
+    "category": 5,
+    "language": 2,
+    "id": 445,
+    "hd": false,
+    "icon": "Zee_Marathi.png"
+  },
+  {
+    "name": "Colors Marathi HD",
+    "link": "Colors_Marathi_HD",
+    "category": 5,
+    "language": 2,
+    "id": 755,
+    "hd": true,
+    "icon": "Colors_Marathi_HD.png"
+  },
+  {
+    "name": "Colors Kannada HD",
+    "link": "Colors_Kannada_HD",
+    "category": 5,
+    "language": 13,
+    "id": 757,
+    "hd": true,
+    "icon": "Colors_Kannada_HD.png"
+  },
+  {
+    "name": "Zee Kannada",
+    "link": "Zee_Kannada",
+    "category": 5,
+    "language": 13,
+    "id": 689,
+    "hd": false,
+    "icon": "Zee_Kannada.png"
+  },
+  {
+    "name": "Comedy Central HD",
+    "link": "Comedy_Central_HD",
+    "category": 5,
+    "language": 6,
+    "id": 1157,
+    "hd": true,
+    "icon": "Comedy_Central_HD.png"
+  },
+  {
+    "name": "Zee Telugu",
+    "link": "Zee_Telugu",
+    "category": 5,
+    "language": 11,
+    "id": 638,
+    "hd": false,
+    "icon": "Zee_Telugu.png"
+  },
+  {
+    "name": "Zee Tamil",
+    "link": "Zee_Tamil",
+    "category": 5,
+    "language": 8,
+    "id": 628,
+    "hd": false,
+    "icon": "Zee_Tamil.png"
+  },
+  {
+    "name": "Colors Gujarati",
+    "link": "Colors_Gujarati",
+    "category": 5,
+    "language": 9,
+    "id": 196,
+    "hd": false,
+    "icon": "Colors_Gujarati.png"
+  },
+  {
+    "name": "Zee Bangla",
+    "link": "Zee_Bangla",
+    "category": 5,
+    "language": 5,
+    "id": 625,
+    "hd": false,
+    "icon": "Zee_Bangla.png"
+  },
+  {
+    "name": "Colors Bengali HD",
+    "link": "Colors_Bengali_HD",
+    "category": 5,
+    "language": 5,
+    "id": 756,
+    "hd": true,
+    "icon": "Colors_Bengali_HD.png"
+  },
+  {
+    "name": "Epic",
+    "link": "Epic_HD",
+    "category": 5,
+    "language": 1,
+    "id": 481,
+    "hd": false,
+    "icon": "Epic_HD.png"
+  },
+  {
+    "name": "Colors Infinity HD",
+    "link": "Colors_Infinity_HD",
+    "category": 5,
+    "language": 6,
+    "id": 1158,
+    "hd": true,
+    "icon": "Colors_Infinity_HD.png"
+  },
+  {
+    "name": "Zee Yuva",
+    "link": "Zee_Yuva",
+    "category": 5,
+    "language": 2,
+    "id": 414,
+    "hd": false,
+    "icon": "Zee_Yuva.png"
+  },
+  {
+    "name": "PTC Punjabi",
+    "link": "PTC_Punjabi",
+    "category": 5,
+    "language": 3,
+    "id": 1171,
+    "hd": false,
+    "icon": "PTC_Punjabi.png"
+  },
+  {
+    "name": "Investigation Discovery",
+    "link": "ID",
+    "category": 5,
+    "language": 1,
+    "id": 527,
+    "hd": false,
+    "icon": "ID.PNG"
+  },
+  {
+    "name": "DD India",
+    "link": "DD_India",
+    "category": 5,
+    "language": 1,
+    "id": 528,
+    "hd": false,
+    "icon": "DD_India.png"
+  },
+  {
+    "name": "DD National",
+    "link": "DD_National",
+    "category": 5,
+    "language": 1,
+    "id": 202,
+    "hd": false,
+    "icon": "DD_National.png"
+  },
+  {
+    "name": "Dabangg",
+    "link": "Dabangg",
+    "category": 5,
+    "language": 1,
+    "id": 532,
+    "hd": false,
+    "icon": "Dabangg.png"
+  },
+  {
+    "name": "Colors Tamil HD",
+    "link": "Colors_Tamil_HD",
+    "category": 5,
+    "language": 8,
+    "id": 429,
+    "hd": true,
+    "icon": "Colors_Tamil_HD.png"
+  },
+  {
+    "name": "DD Madhya Pradesh",
+    "link": "DD_Madhya_Pradesh",
+    "category": 5,
+    "language": 1,
+    "id": 536,
+    "hd": false,
+    "icon": "DD_Madhya_Pradesh.png"
+  },
+  {
+    "name": "DD Rajasthan (Jaipur)",
+    "link": "DD_Rajasthan_Jaipur",
+    "category": 5,
+    "language": 1,
+    "id": 538,
+    "hd": false,
+    "icon": "DD_Rajasthan_Jaipur.png"
+  },
+  {
+    "name": "Colors Cineplex",
+    "link": "Rishtey_Cineplex",
+    "category": 6,
+    "language": 1,
+    "id": 482,
+    "hd": false,
+    "icon": "Rishtey_Cineplex.png"
+  },
+  {
+    "name": "Sony Pix HD",
+    "link": "Sony_Pix_HD",
+    "category": 6,
+    "language": 6,
+    "id": 762,
+    "hd": true,
+    "icon": "Sony_Pix_HD.png"
+  },
+  {
+    "name": "WB",
+    "link": "WB",
+    "category": 6,
+    "language": 6,
+    "id": 834,
+    "hd": false,
+    "icon": "WB.png"
+  },
+  {
+    "name": "Sony MAX2",
+    "link": "Sony_MAX2",
+    "category": 6,
+    "language": 1,
+    "id": 483,
+    "hd": false,
+    "icon": "Sony_MAX2.png"
+  },
+  {
+    "name": "And Pictures HD",
+    "link": "And_Pictures_HD",
+    "category": 6,
+    "language": 1,
+    "id": 185,
+    "hd": true,
+    "icon": "And_Pictures_HD.png"
+  },
+  {
+    "name": "Zee Cinema",
+    "link": "Zee_Cinema",
+    "category": 6,
+    "language": 1,
+    "id": 484,
+    "hd": false,
+    "icon": "Zee_Cinema.png"
+  },
+  {
+    "name": "B4U Movies",
+    "link": "B4U_Movies",
+    "category": 6,
+    "language": 1,
+    "id": 182,
+    "hd": false,
+    "icon": "B4U_Movies.png"
+  },
+  {
+    "name": "JioCinema",
+    "link": "Jio_Cinema",
+    "category": 6,
+    "language": 1,
+    "id": 1074,
+    "hd": true,
+    "icon": "Jio_Cinema.png"
+  },
+  {
+    "name": "Zee Bollywood",
+    "link": "Zee_Classic",
+    "category": 6,
+    "language": 1,
+    "id": 487,
+    "hd": false,
+    "icon": "Zee_Classic.png"
+  },
+  {
+    "name": "Bhojpuri Cinema",
+    "link": "Bhojpuri_Cinema",
+    "category": 6,
+    "language": 12,
+    "id": 486,
+    "hd": false,
+    "icon": "Bhojpuri_Cinema.png"
+  },
+  {
+    "name": "Enterr 10",
+    "link": "Enterr_10",
+    "category": 6,
+    "language": 1,
+    "id": 485,
+    "hd": false,
+    "icon": "Enterr_10.png"
+  },
+  {
+    "name": "Zee Action",
+    "link": "Zee_Action",
+    "category": 6,
+    "language": 1,
+    "id": 488,
+    "hd": false,
+    "icon": "Zee_Action.png"
+  },
+  {
+    "name": "Zee Cinemalu",
+    "link": "Zee_Cinemalu",
+    "category": 6,
+    "language": 11,
+    "id": 413,
+    "hd": false,
+    "icon": "Zee_Cinemalu.png"
+  },
+  {
+    "name": "Zee Anmol Cinema",
+    "link": "Zee_Anmol_Cinema",
+    "category": 6,
+    "language": 1,
+    "id": 415,
+    "hd": false,
+    "icon": "Zee_Anmol_Cinema.png"
+  },
+  {
+    "name": "Movies Now HD",
+    "link": "Movies_Now_HD",
+    "category": 6,
+    "language": 6,
+    "id": 151,
+    "hd": true,
+    "icon": "Movies_Now_HD.png"
+  },
+  {
+    "name": "News 18 India",
+    "link": "IBN_7",
+    "category": 12,
+    "language": 1,
+    "id": 231,
+    "hd": false,
+    "icon": "IBN_7.png"
+  },
+  {
+    "name": "India TV",
+    "link": "India_TV",
+    "category": 12,
+    "language": 1,
+    "id": 235,
+    "hd": false,
+    "icon": "India_TV.png"
+  },
+  {
+    "name": "NDTV India",
+    "link": "NDTV_India",
+    "category": 12,
+    "language": 1,
+    "id": 258,
+    "hd": false,
+    "icon": "NDTV_India.png"
+  },
+  {
+    "name": "Zee News",
+    "link": "Zee_News",
+    "category": 12,
+    "language": 1,
+    "id": 504,
+    "hd": false,
+    "icon": "Zee_News.png"
+  },
+  {
+    "name": "Times Now World",
+    "link": "Times_Now_HD",
+    "category": 12,
+    "language": 6,
+    "id": 876,
+    "hd": true,
+    "icon": "Times_Now_HD.png"
+  },
+  {
+    "name": "NDTV 24x7",
+    "link": "NDTV_24x7",
+    "category": 12,
+    "language": 6,
+    "id": 255,
+    "hd": false,
+    "icon": "NDTV_24x7.png"
+  },
+  {
+    "name": "ETV Telugu",
+    "link": "ETV_Telugu",
+    "category": 5,
+    "language": 11,
+    "id": 629,
+    "hd": false,
+    "icon": "ETV_Telugu.png"
+  },
+  {
+    "name": "Public TV",
+    "link": "Public_TV",
+    "category": 12,
+    "language": 13,
+    "id": 778,
+    "hd": false,
+    "icon": "Public_TV.png"
+  },
+  {
+    "name": "24 Ghanta TV",
+    "link": "24_Ghanta_TV",
+    "category": 12,
+    "language": 5,
+    "id": 464,
+    "hd": false,
+    "icon": "24_Ghanta_TV.png"
+  },
+  {
+    "name": "Sakshi tv",
+    "link": "Sakshi_tv",
+    "category": 12,
+    "language": 11,
+    "id": 632,
+    "hd": false,
+    "icon": "Sakshi_tv.png"
+  },
+  {
+    "name": "NTV",
+    "link": "NTV",
+    "category": 12,
+    "language": 11,
+    "id": 646,
+    "hd": false,
+    "icon": "NTV.png"
+  },
+  {
+    "name": "Thanthi TV",
+    "link": "Thanthi_TV",
+    "category": 12,
+    "language": 8,
+    "id": 830,
+    "hd": false,
+    "icon": "Thanthi_TV.png"
+  },
+  {
+    "name": "News 24",
+    "link": "News_24",
+    "category": 12,
+    "language": 1,
+    "id": 501,
+    "hd": false,
+    "icon": "News_24.png"
+  },
+  {
+    "name": "TV9 Maharashtra",
+    "link": "TV9_Maharashtra",
+    "category": 12,
+    "language": 2,
+    "id": 617,
+    "hd": false,
+    "icon": "TV9_Maharashtra.png"
+  },
+  {
+    "name": "BTV",
+    "link": "BTV",
+    "category": 12,
+    "language": 13,
+    "id": 938,
+    "hd": false,
+    "icon": "BTV.png"
+  },
+  {
+    "name": "Zee 24 Taas",
+    "link": "Zee_24_Taas",
+    "category": 12,
+    "language": 2,
+    "id": 442,
+    "hd": false,
+    "icon": "Zee_24_Taas.png"
+  },
+  {
+    "name": "Newslive",
+    "link": "Newslive",
+    "category": 12,
+    "language": 14,
+    "id": 613,
+    "hd": false,
+    "icon": "Newslive.png"
+  },
+  {
+    "name": "Ten 3 HD",
+    "link": "Ten3_HD",
+    "category": 8,
+    "language": 1,
+    "id": 892,
+    "hd": true,
+    "icon": "Ten3_HD.png"
+  },
+  {
+    "name": "Eurosport HD",
+    "link": "Dsports_HD",
+    "category": 8,
+    "language": 6,
+    "id": 875,
+    "hd": true,
+    "icon": "Dsports_HD.png"
+  },
+  {
+    "name": "Jio Football HD",
+    "link": "Jio_Football",
+    "category": 8,
+    "language": 6,
+    "id": 1156,
+    "hd": true,
+    "icon": "Jio_Football.png"
+  },
+  {
+    "name": "Jio Cricket 1 HD",
+    "link": "Jio_Cricket_1_HD",
+    "category": 8,
+    "language": 6,
+    "id": 1160,
+    "hd": true,
+    "icon": "Jio_Cricket_1_HD.png"
+  },
+  {
+    "name": "Jio Football 1 HD",
+    "link": "Jio_Football_1",
+    "category": 8,
+    "language": 6,
+    "id": 1165,
+    "hd": true,
+    "icon": "Jio_Football_1.png"
+  },
+  {
+    "name": "Jio Football 2 HD",
+    "link": "Jio_Football_2",
+    "category": 8,
+    "language": 6,
+    "id": 1167,
+    "hd": true,
+    "icon": "Jio_Football_2.png"
+  },
+  {
+    "name": "Ten 1",
+    "link": "Ten_1",
+    "category": 8,
+    "language": 6,
+    "id": 514,
+    "hd": false,
+    "icon": "Ten_1.png"
+  },
+  {
+    "name": "Ten 2",
+    "link": "Ten_2",
+    "category": 8,
+    "language": 6,
+    "id": 523,
+    "hd": false,
+    "icon": "Ten_2.png"
+  },
+  {
+    "name": "Ten 3",
+    "link": "Ten_3",
+    "category": 8,
+    "language": 6,
+    "id": 524,
+    "hd": false,
+    "icon": "Ten_3.png"
+  },
+  {
+    "name": "Sony Six SD",
+    "link": "Sony_Six_SD",
+    "category": 8,
+    "language": 6,
+    "id": 525,
+    "hd": false,
+    "icon": "Sony_Six_SD.png"
+  },
+  {
+    "name": "Zing",
+    "link": "Zing",
+    "category": 13,
+    "language": 1,
+    "id": 585,
+    "hd": false,
+    "icon": "Zing.png"
+  },
+  {
+    "name": "9XM",
+    "link": "9XM",
+    "category": 13,
+    "language": 1,
+    "id": 587,
+    "hd": false,
+    "icon": "9XM.jpg"
+  },
+  {
+    "name": "E 24",
+    "link": "E_24",
+    "category": 13,
+    "language": 1,
+    "id": 591,
+    "hd": false,
+    "icon": "E_24.png"
+  },
+  {
+    "name": "B4U Music",
+    "link": "B4U_Music",
+    "category": 13,
+    "language": 1,
+    "id": 183,
+    "hd": false,
+    "icon": "B4U_Music.png"
+  },
+  {
+    "name": "ZOOM",
+    "link": "ZOOM",
+    "category": 13,
+    "language": 1,
+    "id": 592,
+    "hd": false,
+    "icon": "ZOOM.png"
+  },
+  {
+    "name": "Tarang Music",
+    "link": "Tarang_Music",
+    "category": 13,
+    "language": 10,
+    "id": 751,
+    "hd": false,
+    "icon": "Tarang_Music.png"
+  },
+  {
+    "name": "MTV",
+    "link": "MTV",
+    "category": 13,
+    "language": 1,
+    "id": 248,
+    "hd": false,
+    "icon": "MTV.png"
+  },
+  {
+    "name": "9X Jalwa",
+    "link": "9X_Jalwa",
+    "category": 13,
+    "language": 1,
+    "id": 440,
+    "hd": false,
+    "icon": "9X_Jalwa.png"
+  },
+  {
+    "name": "Public Music",
+    "link": "Public_Music",
+    "category": 13,
+    "language": 13,
+    "id": 773,
+    "hd": false,
+    "icon": "Public_Music.png"
+  },
+  {
+    "name": "Jaya Max",
+    "link": "Jaya_Max",
+    "category": 13,
+    "language": 8,
+    "id": 420,
+    "hd": false,
+    "icon": "Jaya_Max.png"
+  },
+  {
+    "name": "Sangeet Bhojpuri",
+    "link": "Sangeet_Bhojpuri",
+    "category": 13,
+    "language": 12,
+    "id": 741,
+    "hd": false,
+    "icon": "Sangeet_Bhojpuri.png"
+  },
+  {
+    "name": "PTC Music",
+    "link": "PTC_Music",
+    "category": 13,
+    "language": 3,
+    "id": 1189,
+    "hd": false,
+    "icon": "PTC_Music.png"
+  },
+  {
+    "name": "Sangeet Bangla",
+    "link": "Sangeet_Bangla",
+    "category": 13,
+    "language": 5,
+    "id": 740,
+    "hd": false,
+    "icon": "Sangeet_Bangla.png"
+  },
+  {
+    "name": "Zee etc",
+    "link": "etc",
+    "category": 13,
+    "language": 1,
+    "id": 589,
+    "hd": false,
+    "icon": "etc.png"
+  },
+  {
+    "name": "Sonic Hindi",
+    "link": "sonic_Hindi",
+    "category": 7,
+    "language": 1,
+    "id": 815,
+    "hd": false,
+    "icon": "sonic_Hindi.png"
+  },
+  {
+    "name": "Sony Yay Hindi",
+    "link": "Sony_Yay_Hindi",
+    "category": 7,
+    "language": 1,
+    "id": 872,
+    "hd": false,
+    "icon": "Sony_Yay_Hindi.png"
+  },
+  {
+    "name": "Nickelodeon",
+    "link": "Nickelodeon",
+    "category": 7,
+    "language": 6,
+    "id": 547,
+    "hd": false,
+    "icon": "Nickelodeon.png"
+  },
+  {
+    "name": "Nick Tamil",
+    "link": "Nick_Tamil",
+    "category": 7,
+    "language": 8,
+    "id": 546,
+    "hd": false,
+    "icon": "Nick_Tamil.png"
+  },
+  {
+    "name": "Pogo Tamil",
+    "link": "Pogo_Tamil",
+    "category": 7,
+    "language": 8,
+    "id": 542,
+    "hd": false,
+    "icon": "Pogo_Tamil.png"
+  },
+  {
+    "name": "CN HD+ English",
+    "link": "CN_HD_English",
+    "category": 7,
+    "language": 6,
+    "id": 1079,
+    "hd": true,
+    "icon": "CN_HD_English.png"
+  },
+  {
+    "name": "Cartoon Network Tamil",
+    "link": "Cartoon_Network_Tamil",
+    "category": 7,
+    "language": 8,
+    "id": 817,
+    "hd": false,
+    "icon": "Cartoon_Network_Tamil.png"
+  },
+  {
+    "name": "Nick Telugu",
+    "link": "Nick_Telugu",
+    "category": 7,
+    "language": 11,
+    "id": 543,
+    "hd": false,
+    "icon": "Nick_Telugu.png"
+  },
+  {
+    "name": "Discovery Kids 2",
+    "link": "Discovery_Kids_2",
+    "category": 7,
+    "language": 1,
+    "id": 554,
+    "hd": false,
+    "icon": "Discovery_Kids_2.png"
+  },
+  {
+    "name": "Nick Junior",
+    "link": "Nick_Junior",
+    "category": 7,
+    "language": 1,
+    "id": 544,
+    "hd": false,
+    "icon": "Nick_Junior.png"
+  },
+  {
+    "name": "FYI TV18 HD",
+    "link": "FYI_TV18",
+    "category": 10,
+    "language": 6,
+    "id": 254,
+    "hd": true,
+    "icon": "FYI_TV18.png"
+  },
+  {
+    "name": "Animal Planet HD World",
+    "link": "Animal_Planet_HD",
+    "category": 10,
+    "language": 6,
+    "id": 286,
+    "hd": true,
+    "icon": "Animal_Planet_HD.png"
+  },
+  {
+    "name": "Travel XP HD",
+    "link": "Travel_XP_HD",
+    "category": 10,
+    "language": 6,
+    "id": 164,
+    "hd": true,
+    "icon": "Travel_XP_HD.png"
+  },
+  {
+    "name": "Animal Planet Hindi",
+    "link": "Animal_Planet_Hindi",
+    "category": 10,
+    "language": 1,
+    "id": 566,
+    "hd": false,
+    "icon": "Animal_Planet_Hindi.png"
+  },
+  {
+    "name": "Discovery Channel Hindi",
+    "link": "Discovery_Channel_Hindi",
+    "category": 10,
+    "language": 1,
+    "id": 575,
+    "hd": false,
+    "icon": "Discovery_Channel_Hindi.png"
+  },
+  {
+    "name": "History TV18 HD Hindi",
+    "link": "History_18_Hindi",
+    "category": 10,
+    "language": 1,
+    "id": 578,
+    "hd": true,
+    "icon": "History_18_Hindi.png"
+  },
+  {
+    "name": "Discovery Science",
+    "link": "Discovery_Science",
+    "category": 10,
+    "language": 6,
+    "id": 568,
+    "hd": false,
+    "icon": "Discovery_Science.png"
+  },
+  {
+    "name": "Jio Events HD",
+    "link": "Jio_Events",
+    "category": 10,
+    "language": 1,
+    "id": 871,
+    "hd": true,
+    "icon": "Jio_Events.png"
+  },
+  {
+    "name": "Discovery Channel Telugu",
+    "link": "Discovery_Channel_Telugu",
+    "category": 10,
+    "language": 11,
+    "id": 576,
+    "hd": false,
+    "icon": "Discovery_Channel_Telugu.png"
+  },
+  {
+    "name": "D Tamil",
+    "link": "Discovery_Channel_Tamil",
+    "category": 10,
+    "language": 8,
+    "id": 569,
+    "hd": false,
+    "icon": "Discovery_Channel_Tamil.png"
+  },
+  {
+    "name": "History TV18 HD Tamil",
+    "link": "History_18_Tamil",
+    "category": 10,
+    "language": 8,
+    "id": 579,
+    "hd": true,
+    "icon": "History_18_Tamil.png"
+  },
+  {
+    "name": "History TV18 HD Telugu",
+    "link": "History_18_Telugu",
+    "category": 10,
+    "language": 11,
+    "id": 577,
+    "hd": true,
+    "icon": "History_18_Telugu.png"
+  },
+  {
+    "name": "Animal Planet English",
+    "link": "Animal_Planet_English",
+    "category": 10,
+    "language": 6,
+    "id": 567,
+    "hd": false,
+    "icon": "Animal_Planet_English.png"
+  },
+  {
+    "name": "Samara News",
+    "link": "Samara_News",
+    "category": 10,
+    "language": 13,
+    "id": 1073,
+    "hd": true,
+    "icon": "Samara_News.png"
+  },
+  {
+    "name": "Discovery Channel Bengali",
+    "link": "Discovery_Channel_Bengali",
+    "category": 10,
+    "language": 5,
+    "id": 573,
+    "hd": false,
+    "icon": "Discovery_Channel_Bengali.png"
+  },
+  {
+    "name": "Travel XP Tamil",
+    "link": "Travel_XP_Tamil",
+    "category": 10,
+    "language": 8,
+    "id": 814,
+    "hd": false,
+    "icon": "Travel_XP_Tamil.png"
+  },
+  {
+    "name": "Sony BBC Earth HD Telugu",
+    "link": "Sony_BBC_Earth_HD_Telugu",
+    "category": 10,
+    "language": 11,
+    "id": 854,
+    "hd": true,
+    "icon": "Sony_BBC_Earth_HD_Telugu.png"
+  },
+  {
+    "name": "Discovery",
+    "link": "Discovery",
+    "category": 10,
+    "language": 6,
+    "id": 242,
+    "hd": false,
+    "icon": "Discovery.png"
+  },
+  {
+    "name": "Sony BBC Earth HD Tamil",
+    "link": "Sony_BBC_Earth_HD_Tamil",
+    "category": 10,
+    "language": 8,
+    "id": 853,
+    "hd": true,
+    "icon": "Sony_BBC_Earth_HD_Tamil.png"
+  },
+  {
+    "name": "Ayush TV",
+    "link": "Ayush_TV",
+    "category": 10,
+    "language": 13,
+    "id": 1075,
+    "hd": false,
+    "icon": "Ayush_TV.png"
+  },
+  {
+    "name": "Desi Channel",
+    "link": "Desi_Channel",
+    "category": 10,
+    "language": 3,
+    "id": 906,
+    "hd": true,
+    "icon": "Desi_Channel.png"
+  },
+  {
+    "name": "Travel XP HD Hindi",
+    "link": "Travel_XP",
+    "category": 9,
+    "language": 1,
+    "id": 562,
+    "hd": true,
+    "icon": "Travel_XP.png"
+  },
+  {
+    "name": "TLC English",
+    "link": "TLC_English",
+    "category": 9,
+    "language": 6,
+    "id": 574,
+    "hd": false,
+    "icon": "TLC_English.png"
+  },
+  {
+    "name": "ETV Abhiruchi",
+    "link": "ETV_Abhiruchi",
+    "category": 9,
+    "language": 11,
+    "id": 565,
+    "hd": false,
+    "icon": "ETV_Abhiruchi.png"
+  },
+  {
+    "name": "TLC Hindi",
+    "link": "TLC_Hindi",
+    "category": 9,
+    "language": 1,
+    "id": 571,
+    "hd": false,
+    "icon": "TLC_Hindi.png"
+  },
+  {
+    "name": "Sadhguru Television HD",
+    "link": "Sadhguru_Television",
+    "category": 15,
+    "language": 6,
+    "id": 1201,
+    "hd": true,
+    "icon": "Sadhguru_Television.png"
+  },
+  {
+    "name": "Kaumudy TV",
+    "link": "Kaumudy_TV",
+    "category": 9,
+    "language": 7,
+    "id": 563,
+    "hd": false,
+    "icon": "Kaumudy_TV.png"
+  },
+  {
+    "name": "CNBC Tv 18",
+    "link": "CNBC_Tv_18",
+    "category": 16,
+    "language": 6,
+    "id": 489,
+    "hd": false,
+    "icon": "CNBC_Tv_18.png"
+  },
+  {
+    "name": "ET Now",
+    "link": "ET_Now",
+    "category": 16,
+    "language": 6,
+    "id": 212,
+    "hd": false,
+    "icon": "ET_Now.png"
+  },
+  {
+    "name": "Bhakti TV",
+    "link": "Bhakti_TV",
+    "category": 15,
+    "language": 11,
+    "id": 776,
+    "hd": false,
+    "icon": "Bhakti_TV.png"
+  },
+  {
+    "name": "Sri Sankara",
+    "link": "Sri_Sankara",
+    "category": 15,
+    "language": 13,
+    "id": 829,
+    "hd": false,
+    "icon": "Sri_Sankara.png"
+  },
+  {
+    "name": "Sai TV",
+    "link": "SaiTV",
+    "category": 15,
+    "language": 8,
+    "id": 937,
+    "hd": false,
+    "icon": "SaiTV.png"
+  },
+  {
+    "name": "Peace of Mind",
+    "link": "Peace_of_Mind",
+    "category": 15,
+    "language": 1,
+    "id": 794,
+    "hd": false,
+    "icon": "Peace_of_Mind.png"
+  },
+  {
+    "name": "mh1 Shraddha",
+    "link": "mh1_Shraddha",
+    "category": 15,
+    "language": 3,
+    "id": 609,
+    "hd": false,
+    "icon": "mh1_Shraddha.png"
+  },
+  {
+    "name": "Lakshya TV",
+    "link": "Lakshya_TV",
+    "category": 15,
+    "language": 9,
+    "id": 886,
+    "hd": true,
+    "icon": "Lakshya_TV.png"
+  },
+  {
+    "name": "Sri Venkateshwar Bhakti",
+    "link": "Sri_Venkateshwar_Bhakti",
+    "category": 15,
+    "language": 11,
+    "id": 598,
+    "hd": false,
+    "icon": "Sri_Venkateshwar_Bhakti.png"
+  },
+  {
+    "name": "Divya TV",
+    "link": "Divya_TV",
+    "category": 15,
+    "language": 1,
+    "id": 801,
+    "hd": false,
+    "icon": "Divya_TV.png"
+  },
+  {
+    "name": "Paras tv",
+    "link": "Paras_tv",
+    "category": 15,
+    "language": 1,
+    "id": 602,
+    "hd": false,
+    "icon": "Paras_tv.png"
+  },
+  {
+    "name": "Sadhna",
+    "link": "Sadhna",
+    "category": 15,
+    "language": 1,
+    "id": 593,
+    "hd": false,
+    "icon": "Sadhna.png"
+  },
+  {
+    "name": "Satsang TV",
+    "link": "Satsang_TV",
+    "category": 15,
+    "language": 1,
+    "id": 597,
+    "hd": false,
+    "icon": "Satsang_TV.png"
+  },
+  {
+    "name": "Angel TV HD",
+    "link": "Angel_TV_HD",
+    "category": 15,
+    "language": 8,
+    "id": 835,
+    "hd": true,
+    "icon": "Angel_TV_HD.png"
+  },
+  {
+    "name": "CVR OM Spiritual",
+    "link": "CVR_OM_Spiritual",
+    "category": 15,
+    "language": 11,
+    "id": 772,
+    "hd": false,
+    "icon": "CVR_OM_Spiritual.png"
+  },
+  {
+    "name": "Aradhana TV",
+    "link": "Aradhana_TV",
+    "category": 15,
+    "language": 11,
+    "id": 777,
+    "hd": false,
+    "icon": "Aradhana_TV.png"
+  },
+  {
+    "name": "Jinvani TV",
+    "link": "Jinvani_TV",
+    "category": 15,
+    "language": 1,
+    "id": 596,
+    "hd": false,
+    "icon": "Jinvani_TV.png"
+  },
+  {
+    "name": "PTC Simran",
+    "link": "PTC_Simran",
+    "category": 15,
+    "language": 3,
+    "id": 1191,
+    "hd": false,
+    "icon": "PTC_Simran.png"
+  },
+  {
+    "name": "Shubh TV",
+    "link": "Shubh_TV",
+    "category": 15,
+    "language": 1,
+    "id": 828,
+    "hd": false,
+    "icon": "Shubh_TV.png"
+  },
+  {
+    "name": "Sai Leela",
+    "link": "Sai_Leela",
+    "category": 15,
+    "language": 1,
+    "id": 1407,
+    "hd": true,
+    "icon": "Sai_Leela.png"
+  },
+  {
+    "name": "Hindu Dharmam",
+    "link": "Hindu_Dharmam",
+    "category": 15,
+    "language": 11,
+    "id": 955,
+    "hd": false,
+    "icon": "Hindu_Dharmam.png"
+  },
+  {
+    "name": "Subhavartha TV",
+    "link": "Subhavartha_TV",
+    "category": 15,
+    "language": 11,
+    "id": 607,
+    "hd": false,
+    "icon": "Subhavartha_TV.png"
+  },
+  {
+    "name": "Divya Vani",
+    "link": "Divya_Vani",
+    "category": 15,
+    "language": 11,
+    "id": 934,
+    "hd": false,
+    "icon": "Divya_Vani.png"
+  },
+  {
+    "name": "Arihant TV",
+    "link": "Arihant_TV",
+    "category": 15,
+    "language": 1,
+    "id": 466,
+    "hd": false,
+    "icon": "Arihant_TV.png"
+  },
+  {
+    "name": "Mercy TV",
+    "link": "Rujumargam_TV",
+    "category": 15,
+    "language": 4,
+    "id": 924,
+    "hd": false,
+    "icon": "Rujumargam_TV.png"
+  },
+  {
+    "name": "Calvary",
+    "link": "Calvary",
+    "category": 15,
+    "language": 11,
+    "id": 977,
+    "hd": false,
+    "icon": "Calvary.png"
+  },
+  {
+    "name": "Swayam Prabha 04",
+    "link": "Swayam_Prabha_04",
+    "category": 17,
+    "language": 6,
+    "id": 984,
+    "hd": false,
+    "icon": "Swayam_Prabha_04.png"
+  },
+  {
+    "name": "Swayam Prabha 05",
+    "link": "Swayam_Prabha_05",
+    "category": 17,
+    "language": 6,
+    "id": 986,
+    "hd": false,
+    "icon": "Swayam_Prabha_05.png"
+  },
+  {
+    "name": "Swayam Prabha 06",
+    "link": "Swayam_Prabha_06",
+    "category": 17,
+    "language": 6,
+    "id": 987,
+    "hd": false,
+    "icon": "Swayam_Prabha_06.png"
+  },
+  {
+    "name": "Swayam Prabha 07",
+    "link": "Swayam_Prabha_07",
+    "category": 17,
+    "language": 6,
+    "id": 985,
+    "hd": false,
+    "icon": "Swayam_Prabha_07.png"
+  },
+  {
+    "name": "Swayam Prabha 08",
+    "link": "Swayam_Prabha_08",
+    "category": 17,
+    "language": 6,
+    "id": 983,
+    "hd": false,
+    "icon": "Swayam_Prabha_08.png"
+  },
+  {
+    "name": "Swayam Prabha 09",
+    "link": "Swayam_Prabha_09",
+    "category": 17,
+    "language": 6,
+    "id": 988,
+    "hd": false,
+    "icon": "Swayam_Prabha_09.png"
+  },
+  {
+    "name": "Swayam Prabha 10",
+    "link": "Swayam_Prabha_10",
+    "category": 17,
+    "language": 6,
+    "id": 989,
+    "hd": false,
+    "icon": "Swayam_Prabha_10.png"
+  },
+  {
+    "name": "Swayam Prabha 11",
+    "link": "Swayam_Prabha_11",
+    "category": 17,
+    "language": 6,
+    "id": 990,
+    "hd": false,
+    "icon": "Swayam_Prabha_11.png"
+  },
+  {
+    "name": "Swayam Prabha 12",
+    "link": "Swayam_Prabha_12",
+    "category": 17,
+    "language": 6,
+    "id": 991,
+    "hd": false,
+    "icon": "Swayam_Prabha_12.png"
+  },
+  {
+    "name": "Swayam Prabha 13",
+    "link": "Swayam_Prabha_13",
+    "category": 17,
+    "language": 6,
+    "id": 992,
+    "hd": false,
+    "icon": "Swayam_Prabha_13.png"
+  },
+  {
+    "name": "Swayam Prabha 14",
+    "link": "Swayam_Prabha_14",
+    "category": 17,
+    "language": 6,
+    "id": 993,
+    "hd": false,
+    "icon": "Swayam_Prabha_14.png"
+  },
+  {
+    "name": "Swayam Prabha 15",
+    "link": "Swayam_Prabha_15",
+    "category": 17,
+    "language": 6,
+    "id": 995,
+    "hd": false,
+    "icon": "Swayam_Prabha_15.png"
+  },
+  {
+    "name": "Swayam Prabha 16",
+    "link": "Swayam_Prabha_16",
+    "category": 17,
+    "language": 6,
+    "id": 994,
+    "hd": false,
+    "icon": "Swayam_Prabha_16.png"
+  },
+  {
+    "name": "Swayam Prabha 17",
+    "link": "Swayam_Prabha_17",
+    "category": 17,
+    "language": 6,
+    "id": 996,
+    "hd": false,
+    "icon": "Swayam_Prabha_17.png"
+  },
+  {
+    "name": "Swayam Prabha 18",
+    "link": "Swayam_Prabha_18",
+    "category": 17,
+    "language": 6,
+    "id": 999,
+    "hd": false,
+    "icon": "Swayam_Prabha_18.png"
+  },
+  {
+    "name": "Swayam Prabha 19",
+    "link": "Swayam_Prabha_19",
+    "category": 17,
+    "language": 6,
+    "id": 401,
+    "hd": false,
+    "icon": "Swayam_Prabha_19.png"
+  },
+  {
+    "name": "Swayam Prabha 20",
+    "link": "Swayam_Prabha_20",
+    "category": 17,
+    "language": 6,
+    "id": 403,
+    "hd": false,
+    "icon": "Swayam_Prabha_20.png"
+  },
+  {
+    "name": "Swayam Prabha 21",
+    "link": "Swayam_Prabha_21",
+    "category": 17,
+    "language": 6,
+    "id": 997,
+    "hd": false,
+    "icon": "Swayam_Prabha_21.png"
+  },
+  {
+    "name": "Swayam Prabha 22",
+    "link": "Swayam_Prabha_22",
+    "category": 17,
+    "language": 6,
+    "id": 998,
+    "hd": false,
+    "icon": "Swayam_Prabha_22.png"
+  },
+  {
+    "name": "Swayam Prabha 23",
+    "link": "Swayam_Prabha_23",
+    "category": 17,
+    "language": 6,
+    "id": 400,
+    "hd": false,
+    "icon": "Swayam_Prabha_23.png"
+  },
+  {
+    "name": "Swayam Prabha 24",
+    "link": "Swayam_Prabha_24",
+    "category": 17,
+    "language": 6,
+    "id": 402,
+    "hd": false,
+    "icon": "Swayam_Prabha_24.png"
+  },
+  {
+    "name": "Swayam Prabha 25",
+    "link": "Swayam_Prabha_25",
+    "category": 17,
+    "language": 6,
+    "id": 405,
+    "hd": false,
+    "icon": "Swayam_Prabha_25.png"
+  },
+  {
+    "name": "Swayam Prabha 26",
+    "link": "Swayam_Prabha_26",
+    "category": 17,
+    "language": 6,
+    "id": 406,
+    "hd": false,
+    "icon": "Swayam_Prabha_26.png"
+  },
+  {
+    "name": "Swayam Prabha 27",
+    "link": "Swayam_Prabha_27",
+    "category": 17,
+    "language": 6,
+    "id": 407,
+    "hd": false,
+    "icon": "Swayam_Prabha_27.png"
+  },
+  {
+    "name": "Swayam Prabha 28",
+    "link": "Swayam_Prabha_28",
+    "category": 17,
+    "language": 6,
+    "id": 408,
+    "hd": false,
+    "icon": "Swayam_Prabha_28.png"
+  },
+  {
+    "name": "Swayam Prabha 29",
+    "link": "Swayam_Prabha_29",
+    "category": 17,
+    "language": 6,
+    "id": 404,
+    "hd": false,
+    "icon": "Swayam_Prabha_29.png"
+  },
+  {
+    "name": "Raj Pariwar",
+    "link": "Raj_Pariwar",
+    "category": 5,
+    "language": 1,
+    "id": 533,
+    "hd": false,
+    "icon": "Raj_Pariwar.png"
+  },
+  {
+    "name": "DD Bihar",
+    "link": "DD_Bihar",
+    "category": 5,
+    "language": 1,
+    "id": 539,
+    "hd": false,
+    "icon": "DD_Bihar.png"
+  },
+  {
+    "name": "DD Uttar Pradesh",
+    "link": "DD_Uttar_Pradesh",
+    "category": 5,
+    "language": 1,
+    "id": 540,
+    "hd": false,
+    "icon": "DD_Uttar_Pradesh.png"
+  },
+  {
+    "name": "Jaya TV HD",
+    "link": "Jaya_TV_HD",
+    "category": 5,
+    "language": 8,
+    "id": 419,
+    "hd": true,
+    "icon": "Jaya_TV_HD.png"
+  },
+  {
+    "name": "Mazavali Manorama HD",
+    "link": "Mazavali_Manorama_HD",
+    "category": 5,
+    "language": 7,
+    "id": 844,
+    "hd": true,
+    "icon": "Mazavali_Manorama_HD.png"
+  },
+  {
+    "name": "MK TV",
+    "link": "MK_TV",
+    "category": 5,
+    "language": 8,
+    "id": 847,
+    "hd": false,
+    "icon": "MK_TV.png"
+  },
+  {
+    "name": "Colors Super",
+    "link": "Colors_Super",
+    "category": 5,
+    "language": 13,
+    "id": 785,
+    "hd": false,
+    "icon": "Colors_Super.png"
+  },
+  {
+    "name": "Vendhar TV",
+    "link": "Vendhar_TV",
+    "category": 5,
+    "language": 8,
+    "id": 857,
+    "hd": false,
+    "icon": "Vendhar_TV.png"
+  },
+  {
+    "name": "Sanjha TV",
+    "link": "Sanjha_TV",
+    "category": 5,
+    "language": 3,
+    "id": 904,
+    "hd": true,
+    "icon": "Sanjha_TV.png"
+  },
+  {
+    "name": "Anjan TV",
+    "link": "Anjan_TV",
+    "category": 5,
+    "language": 12,
+    "id": 919,
+    "hd": false,
+    "icon": "Anjan_TV.png"
+  },
+  {
+    "name": "Garv Punjabi",
+    "link": "GarvPunjabi",
+    "category": 5,
+    "language": 3,
+    "id": 951,
+    "hd": true,
+    "icon": "GarvPunjabi.png"
+  },
+  {
+    "name": "JUSPunjabi",
+    "link": "JUSPunjabi",
+    "category": 5,
+    "language": 3,
+    "id": 959,
+    "hd": true,
+    "icon": "JUSPunjabi.png"
+  },
+  {
+    "name": "Arre HD",
+    "link": "Arre",
+    "category": 5,
+    "language": 1,
+    "id": 963,
+    "hd": true,
+    "icon": "Arre.png"
+  },
+  {
+    "name": "Peppers TV",
+    "link": "Peppers_TV",
+    "category": 5,
+    "language": 8,
+    "id": 796,
+    "hd": false,
+    "icon": "Peppers_TV.png"
+  },
+  {
+    "name": "Zee Odisha",
+    "link": "Sarthak_TV",
+    "category": 5,
+    "language": 10,
+    "id": 722,
+    "hd": false,
+    "icon": "Sarthak_TV.png"
+  },
+  {
+    "name": "Flower TV",
+    "link": "Flower_TV",
+    "category": 5,
+    "language": 7,
+    "id": 634,
+    "hd": false,
+    "icon": "Flower_TV.png"
+  },
+  {
+    "name": "Mazhavil Manorama",
+    "link": "Mazhavil_Manorama",
+    "category": 5,
+    "language": 7,
+    "id": 648,
+    "hd": false,
+    "icon": "Mazhavil_Manorama.png"
+  },
+  {
+    "name": "DD Bangla",
+    "link": "DD_Bangla",
+    "category": 5,
+    "language": 5,
+    "id": 690,
+    "hd": false,
+    "icon": "DD_Bangla.png"
+  },
+  {
+    "name": "Puthu Yugam",
+    "link": "Puthu_Yugam",
+    "category": 5,
+    "language": 8,
+    "id": 824,
+    "hd": false,
+    "icon": "Puthu_Yugam.png"
+  },
+  {
+    "name": "Saam Tv",
+    "link": "Saam_Tv",
+    "category": 5,
+    "language": 2,
+    "id": 691,
+    "hd": false,
+    "icon": "Saam_Tv.png"
+  },
+  {
+    "name": "Colors Oriya",
+    "link": "Colors_Oriya",
+    "category": 5,
+    "language": 10,
+    "id": 198,
+    "hd": false,
+    "icon": "Colors_Oriya.png"
+  },
+  {
+    "name": "Jonack",
+    "link": "Jonack",
+    "category": 5,
+    "language": 14,
+    "id": 765,
+    "hd": false,
+    "icon": "Jonack.png"
+  },
+  {
+    "name": "Rang",
+    "link": "Rang",
+    "category": 5,
+    "language": 14,
+    "id": 623,
+    "hd": false,
+    "icon": "Rang.png"
+  },
+  {
+    "name": "Rengoni",
+    "link": "Rengoni",
+    "category": 5,
+    "language": 14,
+    "id": 635,
+    "hd": false,
+    "icon": "Rengoni.png"
+  },
+  {
+    "name": "ETV Plus",
+    "link": "ETV_Plus",
+    "category": 5,
+    "language": 11,
+    "id": 692,
+    "hd": false,
+    "icon": "ETV_Plus.png"
+  },
+  {
+    "name": "Sony Marathi SD",
+    "link": "Sony_Marathi_SD",
+    "category": 5,
+    "language": 2,
+    "id": 1146,
+    "hd": false,
+    "icon": "Sony_Marathi_SD.png"
+  },
+  {
+    "name": "DD Sahayadri",
+    "link": "DD_Sahayadri",
+    "category": 5,
+    "language": 2,
+    "id": 695,
+    "hd": false,
+    "icon": "DD_Sahayadri.png"
+  },
+  {
+    "name": "Sony aath",
+    "link": "Sony_aath",
+    "category": 5,
+    "language": 5,
+    "id": 697,
+    "hd": false,
+    "icon": "Sony_aath.png"
+  },
+  {
+    "name": "Aakash Aath",
+    "link": "Aakaash_bangla",
+    "category": 5,
+    "language": 5,
+    "id": 698,
+    "hd": false,
+    "icon": "Aakaash_bangla.png"
+  },
+  {
+    "name": "DD Malayalam",
+    "link": "DD_Malayalam",
+    "category": 5,
+    "language": 7,
+    "id": 699,
+    "hd": false,
+    "icon": "DD_Malayalam.png"
+  },
+  {
+    "name": "Dangal",
+    "link": "Dangal",
+    "category": 5,
+    "language": 12,
+    "id": 701,
+    "hd": false,
+    "icon": "Dangal.png"
+  },
+  {
+    "name": "DD Oriya",
+    "link": "DD_Oriya",
+    "category": 5,
+    "language": 10,
+    "id": 702,
+    "hd": false,
+    "icon": "DD_Oriya.png"
+  },
+  {
+    "name": "Tarang TV",
+    "link": "Tarang_TV",
+    "category": 5,
+    "language": 10,
+    "id": 703,
+    "hd": false,
+    "icon": "Tarang_TV.png"
+  },
+  {
+    "name": "OTV (Odisha TV)",
+    "link": "OTV_Odisha_TV",
+    "category": 5,
+    "language": 10,
+    "id": 704,
+    "hd": false,
+    "icon": "OTV_Odisha_TV.png"
+  },
+  {
+    "name": "Polimer TV",
+    "link": "Polimer_TV",
+    "category": 5,
+    "language": 8,
+    "id": 705,
+    "hd": false,
+    "icon": "Polimer_TV.png"
+  },
+  {
+    "name": "Raj TV",
+    "link": "Raj_TV",
+    "category": 5,
+    "language": 8,
+    "id": 707,
+    "hd": false,
+    "icon": "Raj_TV.png"
+  },
+  {
+    "name": "Makkal TV",
+    "link": "Makkal_TV",
+    "category": 5,
+    "language": 8,
+    "id": 708,
+    "hd": false,
+    "icon": "Makkal_TV.png"
+  },
+  {
+    "name": "Kairali TV",
+    "link": "Kairali_TV",
+    "category": 5,
+    "language": 7,
+    "id": 710,
+    "hd": false,
+    "icon": "Kairali_TV.png"
+  },
+  {
+    "name": "Captain tv",
+    "link": "Captain_tv",
+    "category": 5,
+    "language": 8,
+    "id": 711,
+    "hd": false,
+    "icon": "Captain_tv.png"
+  },
+  {
+    "name": "DD urdu",
+    "link": "DD_urdu",
+    "category": 5,
+    "language": 4,
+    "id": 712,
+    "hd": false,
+    "icon": "DD_urdu.png"
+  },
+  {
+    "name": "DD Saptagiri",
+    "link": "DD_Saptagiri",
+    "category": 5,
+    "language": 11,
+    "id": 706,
+    "hd": false,
+    "icon": "DD_Saptagiri.png"
+  },
+  {
+    "name": "DD9 chandana (kannada)",
+    "link": "DD9_chandana_kannada",
+    "category": 5,
+    "language": 13,
+    "id": 713,
+    "hd": false,
+    "icon": "DD9_chandana_kannada.png"
+  },
+  {
+    "name": "DD Girnar",
+    "link": "DD_Girnar",
+    "category": 5,
+    "language": 9,
+    "id": 714,
+    "hd": false,
+    "icon": "DD_Girnar.png"
+  },
+  {
+    "name": "DD Punjabi",
+    "link": "DD_Punjabi",
+    "category": 5,
+    "language": 3,
+    "id": 715,
+    "hd": false,
+    "icon": "DD_Punjabi.png"
+  },
+  {
+    "name": "DD Kashir",
+    "link": "DD_Kashir",
+    "category": 5,
+    "language": 4,
+    "id": 716,
+    "hd": false,
+    "icon": "DD_Kashir.png"
+  },
+  {
+    "name": "Nepal one",
+    "link": "Nepal_one",
+    "category": 5,
+    "language": 15,
+    "id": 719,
+    "hd": false,
+    "icon": "Nepal_one.png"
+  },
+  {
+    "name": "DD13 Guwahati NE",
+    "link": "DD13_Guwahati_NE",
+    "category": 5,
+    "language": 14,
+    "id": 720,
+    "hd": false,
+    "icon": "DD13_Guwahati_NE.png"
+  },
+  {
+    "name": "Amrita TV",
+    "link": "Amrita_TV",
+    "category": 5,
+    "language": 7,
+    "id": 723,
+    "hd": false,
+    "icon": "Amrita_TV.png"
+  },
+  {
+    "name": "Kairali News",
+    "link": "Kairali_People_TV",
+    "category": 12,
+    "language": 7,
+    "id": 725,
+    "hd": false,
+    "icon": "Kairali_People_TV.PNG"
+  },
+  {
+    "name": "DD5 Podhigai",
+    "link": "DD5_Podhigai",
+    "category": 5,
+    "language": 8,
+    "id": 726,
+    "hd": false,
+    "icon": "DD5_Podhigai.png"
+  },
+  {
+    "name": "Vasanth TV",
+    "link": "Vasanth_TV",
+    "category": 5,
+    "language": 8,
+    "id": 727,
+    "hd": false,
+    "icon": "Vasanth_TV.png"
+  },
+  {
+    "name": "Zee Salaam",
+    "link": "Zee_Salaam",
+    "category": 5,
+    "language": 4,
+    "id": 728,
+    "hd": false,
+    "icon": "Zee_Salaam.png"
+  },
+  {
+    "name": "Kasturi",
+    "link": "Kasturi",
+    "category": 5,
+    "language": 13,
+    "id": 730,
+    "hd": false,
+    "icon": "Kasturi.png"
+  },
+  {
+    "name": "Kairali WE TV",
+    "link": "Kairali_WE_TV",
+    "category": 5,
+    "language": 7,
+    "id": 731,
+    "hd": false,
+    "icon": "Kairali_WE_TV.png"
+  },
+  {
+    "name": "Vissa TV",
+    "link": "Vissa_TV",
+    "category": 5,
+    "language": 11,
+    "id": 734,
+    "hd": false,
+    "icon": "Vissa_TV.png"
+  },
+  {
+    "name": "Maiboli",
+    "link": "Maiboli",
+    "category": 5,
+    "language": 2,
+    "id": 736,
+    "hd": false,
+    "icon": "Maiboli.png"
+  },
+  {
+    "name": "The Q India",
+    "link": "TheQIndia",
+    "category": 5,
+    "language": 6,
+    "id": 1066,
+    "hd": true,
+    "icon": "QYOUHD.png"
+  },
+  {
+    "name": "Andy Haryana",
+    "link": "Andy_Haryana",
+    "category": 5,
+    "language": 1,
+    "id": 1076,
+    "hd": false,
+    "icon": "Andy_Haryana.png"
+  },
+  {
+    "name": "Dishum TV",
+    "link": "Dishum_TV",
+    "category": 5,
+    "language": 12,
+    "id": 1100,
+    "hd": false,
+    "icon": "Dishum_TV.png"
+  },
+  {
+    "name": "Namma TV",
+    "link": "Namma_TV",
+    "category": 5,
+    "language": 13,
+    "id": 1144,
+    "hd": true,
+    "icon": "Namma_TV.png"
+  },
+  {
+    "name": "Rangamanch",
+    "link": "Rangamanch",
+    "category": 5,
+    "language": 2,
+    "id": 1151,
+    "hd": false,
+    "icon": "Rangamanch.png"
+  },
+  {
+    "name": "Dillagi TV",
+    "link": "Dillagi_TV",
+    "category": 5,
+    "language": 1,
+    "id": 534,
+    "hd": false,
+    "icon": "Dillagi_TV.png"
+  },
+  {
+    "name": "Dhamaal TV",
+    "link": "Dhamaal_TV",
+    "category": 5,
+    "language": 1,
+    "id": 535,
+    "hd": false,
+    "icon": "Dhamaal_TV.png"
+  },
+  {
+    "name": "MNX HD",
+    "link": "Movies_Now2_HD",
+    "category": 6,
+    "language": 6,
+    "id": 877,
+    "hd": true,
+    "icon": "Movies_Now2_HD.png"
+  },
+  {
+    "name": "Zee Talkies",
+    "link": "Zee_Talkies",
+    "category": 6,
+    "language": 2,
+    "id": 153,
+    "hd": false,
+    "icon": "Zee_Talkies.png"
+  },
+  {
+    "name": "J Movies",
+    "link": "J_Movies",
+    "category": 6,
+    "language": 8,
+    "id": 417,
+    "hd": false,
+    "icon": "J_Movies.png"
+  },
+  {
+    "name": "Alankar TV",
+    "link": "Alankar_TV",
+    "category": 6,
+    "language": 10,
+    "id": 686,
+    "hd": false,
+    "icon": "Alankar_TV.png"
+  },
+  {
+    "name": "Zee Bangla Cinema",
+    "link": "Zee_Bangla_Cinema",
+    "category": 6,
+    "language": 5,
+    "id": 685,
+    "hd": false,
+    "icon": "Zee_Bangla_Cinema.png"
+  },
+  {
+    "name": "MN+ HD",
+    "link": "MNPLUS",
+    "category": 6,
+    "language": 6,
+    "id": 477,
+    "hd": true,
+    "icon": "MNPLUS.png"
+  },
+  {
+    "name": "ETV Cinema",
+    "link": "ETV_Cinema",
+    "category": 6,
+    "language": 11,
+    "id": 252,
+    "hd": false,
+    "icon": "ETV_Cinema.png"
+  },
+  {
+    "name": "MNX",
+    "link": "Movies_Now2",
+    "category": 6,
+    "language": 6,
+    "id": 462,
+    "hd": false,
+    "icon": "Movies_Now2.png"
+  },
+  {
+    "name": "Romedy Now HD",
+    "link": "Romedy_Now_HD",
+    "category": 6,
+    "language": 6,
+    "id": 478,
+    "hd": true,
+    "icon": "Romedy_Now_HD.png"
+  },
+  {
+    "name": "Fakt Marathi",
+    "link": "Fakt_Marathi",
+    "category": 6,
+    "language": 2,
+    "id": 738,
+    "hd": false,
+    "icon": "Fakt_Marathi.png"
+  },
+  {
+    "name": "Pitaara",
+    "link": "Pitaara",
+    "category": 6,
+    "language": 3,
+    "id": 946,
+    "hd": false,
+    "icon": "Pitaara.png"
+  },
+  {
+    "name": "Maha Movies",
+    "link": "Maha_Movies",
+    "category": 6,
+    "language": 1,
+    "id": 809,
+    "hd": false,
+    "icon": "Maha_Movies.png"
+  },
+  {
+    "name": "Housefull Movies",
+    "link": "Housefull_Movies",
+    "category": 6,
+    "language": 1,
+    "id": 841,
+    "hd": false,
+    "icon": "Housefull_Movies.png"
+  },
+  {
+    "name": "Raj Digital Plus",
+    "link": "Raj_Digital_Plus",
+    "category": 6,
+    "language": 8,
+    "id": 683,
+    "hd": false,
+    "icon": "Raj_Digital_Plus.png"
+  },
+  {
+    "name": "PTC Punjabi Gold ",
+    "link": "PTC_Punjabi_Gold",
+    "category": 6,
+    "language": 3,
+    "id": 1190,
+    "hd": false,
+    "icon": "PTC_Punjabi_Gold.png"
+  },
+  {
+    "name": "Jio Bollywood Premium HD",
+    "link": "EROSNOW_Hindi_Premium",
+    "category": 6,
+    "language": 1,
+    "id": 1202,
+    "hd": true,
+    "icon": "EROSNOW_Hindi_Premium.png"
+  },
+  {
+    "name": "Oscar Movies",
+    "link": "Oscar_Movies",
+    "category": 6,
+    "language": 12,
+    "id": 883,
+    "hd": false,
+    "icon": "Osar_Movies.png"
+  },
+  {
+    "name": "Indradhanu",
+    "link": "Indradhanu",
+    "category": 6,
+    "language": 14,
+    "id": 908,
+    "hd": false,
+    "icon": "Indradhanu.png"
+  },
+  {
+    "name": "Amaar Cinema",
+    "link": "Amaar_Cinema",
+    "category": 6,
+    "language": 5,
+    "id": 1101,
+    "hd": false,
+    "icon": "Amaar_Cinema.png"
+  },
+  {
+    "name": "ABN Andhra Jyothi",
+    "link": "ABN_Andhra_Jyothi",
+    "category": 12,
+    "language": 11,
+    "id": 666,
+    "hd": false,
+    "icon": "ABN_Andhra_Jyothi.png"
+  },
+  {
+    "name": "News Nation",
+    "link": "News_Nation",
+    "category": 12,
+    "language": 1,
+    "id": 499,
+    "hd": false,
+    "icon": "News_Nation.png"
+  },
+  {
+    "name": "Kanak News",
+    "link": "Kanak_TV",
+    "category": 12,
+    "language": 10,
+    "id": 718,
+    "hd": false,
+    "icon": "Kanak_TV.png"
+  },
+  {
+    "name": "India news",
+    "link": "India_news",
+    "category": 12,
+    "language": 1,
+    "id": 498,
+    "hd": false,
+    "icon": "India_news.png"
+  },
+  {
+    "name": "Puthiya Thalimurai",
+    "link": "Puthiya_Thalimurai",
+    "category": 12,
+    "language": 8,
+    "id": 677,
+    "hd": false,
+    "icon": "Puthiya_Thalimurai.png"
+  },
+  {
+    "name": "News18 BIHAR",
+    "link": "ETV_BIHAR",
+    "category": 12,
+    "language": 12,
+    "id": 693,
+    "hd": false,
+    "icon": "ETV_BIHAR.png"
+  },
+  {
+    "name": "Dighvijay TV",
+    "link": "Dighvijay_TV",
+    "category": 12,
+    "language": 13,
+    "id": 923,
+    "hd": false,
+    "icon": "Dighvijay_TV.png"
+  },
+  {
+    "name": "Zee Kalinga",
+    "link": "Zee_Kalinga",
+    "category": 12,
+    "language": 10,
+    "id": 724,
+    "hd": false,
+    "icon": "Zee_Kalinga.png"
+  },
+  {
+    "name": "News18 Gujarati",
+    "link": "ETV_News_Gujarati",
+    "category": 12,
+    "language": 9,
+    "id": 620,
+    "hd": false,
+    "icon": "ETV_News_Gujarati.png"
+  },
+  {
+    "name": "Tez",
+    "link": "Tez",
+    "category": 12,
+    "language": 1,
+    "id": 502,
+    "hd": false,
+    "icon": "Tez.png"
+  },
+  {
+    "name": "News18 Kannada News",
+    "link": "ETV_Kannada_News",
+    "category": 12,
+    "language": 13,
+    "id": 653,
+    "hd": false,
+    "icon": "ETV_Kannada_News.png"
+  },
+  {
+    "name": "News7 Tamil",
+    "link": "News7_Tamil",
+    "category": 12,
+    "language": 8,
+    "id": 673,
+    "hd": false,
+    "icon": "News7_Tamil.png"
+  },
+  {
+    "name": "DY 365",
+    "link": "DY_365",
+    "category": 12,
+    "language": 14,
+    "id": 633,
+    "hd": false,
+    "icon": "DY_365.png"
+  },
+  {
+    "name": "IBN Lokmat",
+    "link": "IBN_Lokmat",
+    "category": 12,
+    "language": 2,
+    "id": 232,
+    "hd": false,
+    "icon": "IBN_Lokmat.png"
+  },
+  {
+    "name": "Prime Time News",
+    "link": "Pratidin_News",
+    "category": 12,
+    "language": 14,
+    "id": 647,
+    "hd": false,
+    "icon": "Pratidin_News.png"
+  },
+  {
+    "name": "Tv 9 Gujarat",
+    "link": "Tv_9_Gujarat",
+    "category": 12,
+    "language": 9,
+    "id": 616,
+    "hd": false,
+    "icon": "Tv_9_Gujarat.png"
+  },
+  {
+    "name": "News18 RAJASTHAN",
+    "link": "ETV_RAJASTHAN",
+    "category": 12,
+    "language": 1,
+    "id": 531,
+    "hd": false,
+    "icon": "ETV_RAJASTHAN.png"
+  },
+  {
+    "name": "News18 Bangla News",
+    "link": "ETV_Bangla_News",
+    "category": 12,
+    "language": 5,
+    "id": 717,
+    "hd": false,
+    "icon": "ETV_Bangla_News.png"
+  },
+  {
+    "name": "News State UK UP",
+    "link": "News_State_UK_UP",
+    "category": 12,
+    "language": 1,
+    "id": 792,
+    "hd": false,
+    "icon": "News_State_UK_UP.png"
+  },
+  {
+    "name": "News 18 Assam",
+    "link": "News_18_Assam",
+    "category": 12,
+    "language": 14,
+    "id": 627,
+    "hd": false,
+    "icon": "News_18_Assam.png"
+  },
+  {
+    "name": "ABP Asmita",
+    "link": "ABP_Asmita",
+    "category": 12,
+    "language": 9,
+    "id": 641,
+    "hd": false,
+    "icon": "ABP_Asmita.png"
+  },
+  {
+    "name": "Prag News",
+    "link": "Prag_News",
+    "category": 12,
+    "language": 14,
+    "id": 624,
+    "hd": false,
+    "icon": "Prag_News.png"
+  },
+  {
+    "name": "News18 MP",
+    "link": "ETV_MP",
+    "category": 12,
+    "language": 1,
+    "id": 529,
+    "hd": false,
+    "icon": "ETV_MP.png"
+  },
+  {
+    "name": "Kashish News",
+    "link": "Kashish_News",
+    "category": 12,
+    "language": 1,
+    "id": 770,
+    "hd": false,
+    "icon": "Kashish_News.png"
+  },
+  {
+    "name": "V6 News",
+    "link": "V6_News",
+    "category": 12,
+    "language": 11,
+    "id": 769,
+    "hd": false,
+    "icon": "V6_News.png"
+  },
+  {
+    "name": "ETV Andhra pradesh",
+    "link": "ETV_Andhra_pradesh",
+    "category": 12,
+    "language": 11,
+    "id": 614,
+    "hd": false,
+    "icon": "ETV_Andhra_pradesh.png"
+  },
+  {
+    "name": "News 18 Tamilnadu",
+    "link": "News_18_Tamilnadu",
+    "category": 12,
+    "language": 8,
+    "id": 615,
+    "hd": false,
+    "icon": "News_18_Tamilnadu.png"
+  },
+  {
+    "name": "Manorama News",
+    "link": "Manorama_News",
+    "category": 12,
+    "language": 7,
+    "id": 662,
+    "hd": false,
+    "icon": "Manorama_News.png"
+  },
+  {
+    "name": "Mathrubhumi News",
+    "link": "Mathrubhumi_News",
+    "category": 12,
+    "language": 7,
+    "id": 780,
+    "hd": false,
+    "icon": "Mathrubhumi_News.png"
+  },
+  {
+    "name": "India Today",
+    "link": "India_Today",
+    "category": 12,
+    "language": 6,
+    "id": 493,
+    "hd": false,
+    "icon": "India_Today.png"
+  },
+  {
+    "name": "TV 5 Kannada",
+    "link": "TV_5_Kannada",
+    "category": 12,
+    "language": 13,
+    "id": 956,
+    "hd": false,
+    "icon": "TV_5_Kannada.png"
+  },
+  {
+    "name": "DD Sports",
+    "link": "DD_Sports",
+    "category": 8,
+    "language": 1,
+    "id": 204,
+    "hd": false,
+    "icon": "DD_Sports.png"
+  },
+  {
+    "name": "MK Music",
+    "link": "MK_Music",
+    "category": 13,
+    "language": 8,
+    "id": 845,
+    "hd": false,
+    "icon": "MK_Music.png"
+  },
+  {
+    "name": "Music India",
+    "link": "Music_India",
+    "category": 13,
+    "language": 1,
+    "id": 250,
+    "hd": false,
+    "icon": "Music_India.png"
+  },
+  {
+    "name": "Tunes 6",
+    "link": "Tunes_6",
+    "category": 13,
+    "language": 8,
+    "id": 803,
+    "hd": false,
+    "icon": "Tunes_6.png"
+  },
+  {
+    "name": "Raj Music Kannada",
+    "link": "Raj_Music_Kannada",
+    "category": 13,
+    "language": 13,
+    "id": 743,
+    "hd": false,
+    "icon": "Raj_Music_Kannada.png"
+  },
+  {
+    "name": "Ramdhenu",
+    "link": "Ramdhenu",
+    "category": 13,
+    "language": 14,
+    "id": 639,
+    "hd": false,
+    "icon": "Ramdhenu.png"
+  },
+  {
+    "name": "Raj Musix",
+    "link": "Raj_Musix",
+    "category": 13,
+    "language": 8,
+    "id": 748,
+    "hd": false,
+    "icon": "Raj_Musix.png"
+  },
+  {
+    "name": "PTC Chak De",
+    "link": "PTC_Chak_De",
+    "category": 13,
+    "language": 3,
+    "id": 1172,
+    "hd": false,
+    "icon": "PTC_Chak_De.png"
+  },
+  {
+    "name": "9X Tashan",
+    "link": "9X_Tashan",
+    "category": 13,
+    "language": 3,
+    "id": 732,
+    "hd": false,
+    "icon": "9X_Tashan.png"
+  },
+  {
+    "name": "Sahana Music",
+    "link": "Sahana_Music",
+    "category": 13,
+    "language": 8,
+    "id": 749,
+    "hd": false,
+    "icon": "Sahana_Music.png"
+  },
+  {
+    "name": "PTC DHOL TV",
+    "link": "PTC_DHOL_TV",
+    "category": 13,
+    "language": 3,
+    "id": 1188,
+    "hd": false,
+    "icon": "PTC_DHOL_TV.png"
+  },
+  {
+    "name": "mh1 (Music)",
+    "link": "mh1_Music",
+    "category": 13,
+    "language": 3,
+    "id": 742,
+    "hd": false,
+    "icon": "mh1_Music.png"
+  },
+  {
+    "name": "Sangeet Marathi",
+    "link": "Sangeet_Marathi",
+    "category": 13,
+    "language": 2,
+    "id": 735,
+    "hd": false,
+    "icon": "Sangeet_Marathi.png"
+  },
+  {
+    "name": "9x Jhakaas",
+    "link": "9x_Jhakaas",
+    "category": 13,
+    "language": 2,
+    "id": 441,
+    "hd": false,
+    "icon": "9x_Jhakaas.png"
+  },
+  {
+    "name": "Only Music",
+    "link": "Only_Music",
+    "category": 13,
+    "language": 3,
+    "id": 903,
+    "hd": true,
+    "icon": "Only_Music.png"
+  },
+  {
+    "name": "PBN Music",
+    "link": "PBN_Music",
+    "category": 13,
+    "language": 3,
+    "id": 905,
+    "hd": true,
+    "icon": "PBN_Music.png"
+  },
+  {
+    "name": "Raj Music Telugu",
+    "link": "Raj_Music_Telugu",
+    "category": 13,
+    "language": 11,
+    "id": 737,
+    "hd": false,
+    "icon": "Raj_Music_Telugu.png"
+  },
+  {
+    "name": "Brit Asia",
+    "link": "Brit_Asia",
+    "category": 13,
+    "language": 6,
+    "id": 1192,
+    "hd": false,
+    "icon": "Brit_Asia.png"
+  },
+  {
+    "name": "Kappa TV",
+    "link": "Kappa_TV",
+    "category": 13,
+    "language": 7,
+    "id": 786,
+    "hd": false,
+    "icon": "Kappa_TV.png"
+  },
+  {
+    "name": "PEACE MUSIC",
+    "link": "PEACE_MUSIC",
+    "category": 13,
+    "language": 1,
+    "id": 1103,
+    "hd": true,
+    "icon": "PEACE_MUSIC.png"
+  },
+  {
+    "name": "Raj Music Malayalam",
+    "link": "Raj_Music_Malayalam",
+    "category": 13,
+    "language": 7,
+    "id": 739,
+    "hd": false,
+    "icon": "Raj_Music_Malayalam.png"
+  },
+  {
+    "name": "Steelbird Music",
+    "link": "Steelbird_Music",
+    "category": 13,
+    "language": 3,
+    "id": 1184,
+    "hd": true,
+    "icon": "Steelbird_Music.png"
+  },
+  {
+    "name": "10 TV",
+    "link": "10_TV",
+    "category": 12,
+    "language": 11,
+    "id": 832,
+    "hd": false,
+    "icon": "10_TV.png"
+  },
+  {
+    "name": "Zee News MP Chattisgarh",
+    "link": "Zee_News_MP_Chattisgarh",
+    "category": 12,
+    "language": 1,
+    "id": 658,
+    "hd": false,
+    "icon": "Zee_News_MP_Chattisgarh.png"
+  },
+  {
+    "name": "IBC-24",
+    "link": "IBC-24",
+    "category": 12,
+    "language": 1,
+    "id": 503,
+    "hd": false,
+    "icon": "IBC-24.png"
+  },
+  {
+    "name": "VTV Gujarati",
+    "link": "VTV_Gujarati",
+    "category": 12,
+    "language": 9,
+    "id": 642,
+    "hd": false,
+    "icon": "VTV_Gujarati.png"
+  },
+  {
+    "name": "TV 5 News",
+    "link": "TV_5_News",
+    "category": 12,
+    "language": 11,
+    "id": 668,
+    "hd": false,
+    "icon": "TV_5_News.png"
+  },
+  {
+    "name": "Hi Dost!",
+    "link": "Hi_Dost",
+    "category": 5,
+    "language": 6,
+    "id": 1232,
+    "hd": false,
+    "icon": "Hi_Dost.png"
+  },
+  {
+    "name": "Assam Talks",
+    "link": "Assam_Talks",
+    "category": 12,
+    "language": 14,
+    "id": 675,
+    "hd": false,
+    "icon": "Assam_Talks.png"
+  },
+  {
+    "name": "News Time TV",
+    "link": "News_Time_TV",
+    "category": 12,
+    "language": 5,
+    "id": 687,
+    "hd": false,
+    "icon": "News_Time_TV.png"
+  },
+  {
+    "name": "Zee Purvaiya",
+    "link": "Zee_Purvaiya",
+    "category": 12,
+    "language": 12,
+    "id": 661,
+    "hd": false,
+    "icon": "Zee_Purvaiya.png"
+  },
+  {
+    "name": "Prameya News 7",
+    "link": "Prameya_News_7",
+    "category": 12,
+    "language": 10,
+    "id": 779,
+    "hd": false,
+    "icon": "Prameya_News_7.png"
+  },
+  {
+    "name": "CVR News",
+    "link": "CVR_News",
+    "category": 12,
+    "language": 11,
+    "id": 784,
+    "hd": false,
+    "icon": "CVR_News.png"
+  },
+  {
+    "name": "Zee Rajasthan",
+    "link": "Zee_Rajasthan",
+    "category": 12,
+    "language": 1,
+    "id": 659,
+    "hd": false,
+    "icon": "Zee_Rajasthan.png"
+  },
+  {
+    "name": "News18 UP",
+    "link": "ETV_UP",
+    "category": 12,
+    "language": 1,
+    "id": 530,
+    "hd": false,
+    "icon": "ETV_UP.png"
+  },
+  {
+    "name": "News18 Oriya",
+    "link": "ETV_News_Oriya",
+    "category": 12,
+    "language": 10,
+    "id": 696,
+    "hd": false,
+    "icon": "ETV_News_Oriya.png"
+  },
+  {
+    "name": "T News",
+    "link": "T_News",
+    "category": 12,
+    "language": 11,
+    "id": 667,
+    "hd": false,
+    "icon": "T_News.png"
+  },
+  {
+    "name": "Sandesh News",
+    "link": "Sandesh_News",
+    "category": 12,
+    "language": 9,
+    "id": 782,
+    "hd": false,
+    "icon": "Sandesh_News.png"
+  },
+  {
+    "name": "DD News",
+    "link": "DD_News",
+    "category": 12,
+    "language": 1,
+    "id": 203,
+    "hd": false,
+    "icon": "DD_News.png"
+  },
+  {
+    "name": "Prajaa TV",
+    "link": "Prajaa_TV",
+    "category": 12,
+    "language": 13,
+    "id": 954,
+    "hd": false,
+    "icon": "Prajaa_TV.png"
+  },
+  {
+    "name": "Jaya Plus",
+    "link": "Jaya_Plus",
+    "category": 12,
+    "language": 8,
+    "id": 418,
+    "hd": false,
+    "icon": "Jaya_Plus.png"
+  },
+  {
+    "name": "Malai Murasu",
+    "link": "Malai_Murasu",
+    "category": 12,
+    "language": 8,
+    "id": 826,
+    "hd": false,
+    "icon": "Malai_Murasu.png"
+  },
+  {
+    "name": "Bangla Time",
+    "link": "Bangla_Time",
+    "category": 12,
+    "language": 5,
+    "id": 976,
+    "hd": false,
+    "icon": "Bangla_Time.png"
+  },
+  {
+    "name": "Media One TV",
+    "link": "Media_One_TV",
+    "category": 12,
+    "language": 7,
+    "id": 910,
+    "hd": false,
+    "icon": "Media_One_TV.png"
+  },
+  {
+    "name": "Zee 24 Kalak",
+    "link": "Zee_24_Kalak",
+    "category": 12,
+    "language": 9,
+    "id": 929,
+    "hd": false,
+    "icon": "Zee_24_Kalak.png"
+  },
+  {
+    "name": "BBC World News",
+    "link": "BBC_World_News",
+    "category": 12,
+    "language": 6,
+    "id": 142,
+    "hd": false,
+    "icon": "BBC_World_News.png"
+  },
+  {
+    "name": "ETV Telangana",
+    "link": "ETV_Telangana",
+    "category": 12,
+    "language": 11,
+    "id": 630,
+    "hd": false,
+    "icon": "ETV_Telangana.png"
+  },
+  {
+    "name": "Kalinga TV",
+    "link": "Kalinga_TV",
+    "category": 12,
+    "language": 10,
+    "id": 781,
+    "hd": false,
+    "icon": "Kalinga_TV.png"
+  },
+  {
+    "name": "Janam TV",
+    "link": "Janam_TV",
+    "category": 12,
+    "language": 7,
+    "id": 810,
+    "hd": false,
+    "icon": "Janam_TV.png"
+  },
+  {
+    "name": "India News UP",
+    "link": "India_News_UP",
+    "category": 12,
+    "language": 1,
+    "id": 512,
+    "hd": false,
+    "icon": "India_News_UP.png"
+  },
+  {
+    "name": "News 18 Kerala",
+    "link": "News_18_Kerala",
+    "category": 12,
+    "language": 7,
+    "id": 965,
+    "hd": false,
+    "icon": "News_18_Kerala.png"
+  },
+  {
+    "name": "Maha News",
+    "link": "Maha_News",
+    "category": 12,
+    "language": 11,
+    "id": 800,
+    "hd": false,
+    "icon": "Maha_News.png"
+  },
+  {
+    "name": "HM TV",
+    "link": "HM_TV",
+    "category": 12,
+    "language": 11,
+    "id": 665,
+    "hd": false,
+    "icon": "HM_TV.png"
+  },
+  {
+    "name": "sonic Tamil",
+    "link": "sonic_Tamil",
+    "category": 7,
+    "language": 8,
+    "id": 290,
+    "hd": false,
+    "icon": "sonic_Tamil.png"
+  },
+  {
+    "name": "Cartoon Network Telugu",
+    "link": "Cartoon_Network_Telugu",
+    "category": 7,
+    "language": 11,
+    "id": 166,
+    "hd": false,
+    "icon": "Cartoon_Network_Telugu.png"
+  },
+  {
+    "name": "Discovery Kids Tamil",
+    "link": "Discovery_Kids_Tamil",
+    "category": 7,
+    "language": 8,
+    "id": 550,
+    "hd": false,
+    "icon": "Discovery_Kids_Tamil.png"
+  },
+  {
+    "name": "DD Kisan",
+    "link": "DD_Kisan",
+    "category": 10,
+    "language": 1,
+    "id": 583,
+    "hd": false,
+    "icon": "DD_Kisan.png"
+  },
+  {
+    "name": "ETV Life",
+    "link": "ETV_Life",
+    "category": 10,
+    "language": 11,
+    "id": 570,
+    "hd": false,
+    "icon": "ETV_Life.png"
+  },
+  {
+    "name": "In Goa 24x7",
+    "link": "InGoa24x7",
+    "category": 10,
+    "language": 2,
+    "id": 422,
+    "hd": true,
+    "icon": "InGoa24x7.png"
+  },
+  {
+    "name": "Vanitha",
+    "link": "Vanitha",
+    "category": 10,
+    "language": 11,
+    "id": 775,
+    "hd": false,
+    "icon": "Vanitha.png"
+  },
+  {
+    "name": "CVR Health",
+    "link": "CVR_Health",
+    "category": 10,
+    "language": 11,
+    "id": 774,
+    "hd": false,
+    "icon": "CVR_Health.png"
+  },
+  {
+    "name": "Discovery Turbo",
+    "link": "Discovery_Turbo",
+    "category": 10,
+    "language": 6,
+    "id": 541,
+    "hd": false,
+    "icon": "Discovery_Turbo.png"
+  },
+  {
+    "name": "Sony BBC Earth HD English",
+    "link": "Sony_BBC_Earth_HD_English",
+    "category": 10,
+    "language": 6,
+    "id": 852,
+    "hd": true,
+    "icon": "Sony_BBC_Earth_HD_English.png"
+  },
+  {
+    "name": "Boogle Bollywood",
+    "link": "Boogle_Bollywood",
+    "category": 13,
+    "language": 1,
+    "id": 962,
+    "hd": true,
+    "icon": "Boogle_Bollywood.png"
+  },
+  {
+    "name": "Propex TV",
+    "link": "Propex_TV",
+    "category": 9,
+    "language": 7,
+    "id": 953,
+    "hd": true,
+    "icon": "Propex_TV.png"
+  },
+  {
+    "name": "AstroFlix",
+    "link": "AstroFlix",
+    "category": 9,
+    "language": 1,
+    "id": 1182,
+    "hd": true,
+    "icon": "AstroFlix.png"
+  },
+  {
+    "name": "testii",
+    "link": "Sakhi_TV",
+    "category": 9,
+    "language": 7,
+    "id": 797,
+    "hd": false,
+    "icon": "Sakhi_TV.png"
+  },
+  {
+    "name": "Jyotish TV",
+    "link": "Jyotish_TV",
+    "category": 9,
+    "language": 1,
+    "id": 1181,
+    "hd": false,
+    "icon": "Jyotish_TV.png"
+  },
+  {
+    "name": "CNBC Bazaar (MNO)",
+    "link": "CNBC_Bazaar_MNO",
+    "category": 16,
+    "language": 9,
+    "id": 490,
+    "hd": false,
+    "icon": "CNBC_Bazaar_MNO.png"
+  },
+  {
+    "name": "Disha tv",
+    "link": "Disha_tv",
+    "category": 15,
+    "language": 1,
+    "id": 599,
+    "hd": false,
+    "icon": "Disha_tv.png"
+  },
+  {
+    "name": "Vedic TV",
+    "link": "Vedic_TV",
+    "category": 15,
+    "language": 1,
+    "id": 856,
+    "hd": false,
+    "icon": "Vedic_TV.png"
+  },
+  {
+    "name": "Darshan 24",
+    "link": "Darshan_24",
+    "category": 15,
+    "language": 1,
+    "id": 611,
+    "hd": false,
+    "icon": "Darshan_24.png"
+  },
+  {
+    "name": "Bhaktisagar 2",
+    "link": "Bhaktisagar_2",
+    "category": 15,
+    "language": 1,
+    "id": 939,
+    "hd": false,
+    "icon": "Bhaktisagar_2.png"
+  },
+  {
+    "name": "Ishwar TV",
+    "link": "Ishwar_TV",
+    "category": 15,
+    "language": 1,
+    "id": 601,
+    "hd": false,
+    "icon": "Ishwar_TV.png"
+  },
+  {
+    "name": "Channel Win",
+    "link": "Channel_Win",
+    "category": 15,
+    "language": 4,
+    "id": 605,
+    "hd": false,
+    "icon": "Channel_Win.png"
+  },
+  {
+    "name": "Nambikkai",
+    "link": "Nambikkai",
+    "category": 15,
+    "language": 8,
+    "id": 603,
+    "hd": false,
+    "icon": "Nambikkai.png"
+  },
+  {
+    "name": "Hare krsna",
+    "link": "Harekrsna",
+    "category": 15,
+    "language": 1,
+    "id": 879,
+    "hd": true,
+    "icon": "Harekrsna.png"
+  },
+  {
+    "name": "Swar Shree",
+    "link": "Garv_Swaminarayan",
+    "category": 15,
+    "language": 1,
+    "id": 887,
+    "hd": true,
+    "icon": "Garv_Swaminarayan.png"
+  },
+  {
+    "name": "Shubhsandesh TV",
+    "link": "Shubhsandesh_TV",
+    "category": 15,
+    "language": 1,
+    "id": 608,
+    "hd": false,
+    "icon": "Shubhsandesh_TV.png"
+  },
+  {
+    "name": "Shree Siddhivinayak",
+    "link": "Siddhivinayak",
+    "category": 19,
+    "language": 2,
+    "id": 1173,
+    "hd": true,
+    "icon": "Siddhivinayak.png"
+  },
+  {
+    "name": "Katyayani",
+    "link": "Katyayani",
+    "category": 15,
+    "language": 1,
+    "id": 912,
+    "hd": false,
+    "icon": "Katyayani.png"
+  },
+  {
+    "name": "Shalom",
+    "link": "Shalom",
+    "category": 15,
+    "language": 7,
+    "id": 606,
+    "hd": false,
+    "icon": "Shalom.png"
+  },
+  {
+    "name": "Tulja Bhavani",
+    "link": "Tulja_Bhavani",
+    "category": 19,
+    "language": 2,
+    "id": 1159,
+    "hd": true,
+    "icon": "Tulja_Bhavani.png"
+  },
+  {
+    "name": "Sarv Dharam Sangam",
+    "link": "Sarv_Dharam_Sangam",
+    "category": 15,
+    "language": 1,
+    "id": 972,
+    "hd": false,
+    "icon": "Sarv_Dharam_Sangam.png"
+  },
+  {
+    "name": "Lord Buddha",
+    "link": "Lord_Buddha",
+    "category": 15,
+    "language": 1,
+    "id": 1077,
+    "hd": false,
+    "icon": "Lord_Buddha.png"
+  },
+  {
+    "name": "Garv Punjabi Gurbani",
+    "link": "GarvGurbani",
+    "category": 15,
+    "language": 3,
+    "id": 952,
+    "hd": true,
+    "icon": "GarvGurbani.jpg"
+  },
+  {
+    "name": "Fateh TV",
+    "link": "Fateh_TV",
+    "category": 15,
+    "language": 3,
+    "id": 1174,
+    "hd": true,
+    "icon": "Fateh_TV.png"
+  },
+  {
+    "name": "Valambhakti TV",
+    "link": "Valambhakti",
+    "category": 15,
+    "language": 9,
+    "id": 1187,
+    "hd": true,
+    "icon": "Valambhakti_TV.png"
+  },
+  {
+    "name": "Om Shanti",
+    "link": "Om_Shanti",
+    "category": 15,
+    "language": 1,
+    "id": 964,
+    "hd": true,
+    "icon": "Om_Shanti.png"
+  },
+  {
+    "name": "Kartavya TV",
+    "link": "Kartavya_Tv",
+    "category": 15,
+    "language": 9,
+    "id": 1186,
+    "hd": true,
+    "icon": "Kartavya_Tv.png"
+  },
+  {
+    "name": "Hamari Sanskruti",
+    "link": "Hamari_Sanskruti_TV",
+    "category": 15,
+    "language": 9,
+    "id": 1099,
+    "hd": true,
+    "icon": "Hamari_Sanskruti_TV.png"
+  },
+  {
+    "name": "JUSOne",
+    "link": "JUSOne",
+    "category": 15,
+    "language": 3,
+    "id": 961,
+    "hd": true,
+    "icon": "JUSOne.png"
+  },
+  {
+    "name": "Soham TV",
+    "link": "Soham_TV",
+    "category": 15,
+    "language": 1,
+    "id": 1078,
+    "hd": false,
+    "icon": "Soham_TV.png"
+  },
+  {
+    "name": "Awakening",
+    "link": "Awakening",
+    "category": 15,
+    "language": 1,
+    "id": 1175,
+    "hd": true,
+    "icon": "Awakening.png"
+  },
+  {
+    "name": "SRMD HD",
+    "link": "SRMD",
+    "category": 15,
+    "language": 1,
+    "id": 1176,
+    "hd": true,
+    "icon": "SRMD.png"
+  },
+  {
+    "name": "Hare Krsna Music",
+    "link": "Hare_Krsna_music",
+    "category": 15,
+    "language": 1,
+    "id": 1193,
+    "hd": true,
+    "icon": "Hare_Krsna_music.png"
+  },
+  {
+    "name": "Swayam Prabha 30",
+    "link": "Swayam_Prabha_30",
+    "category": 17,
+    "language": 6,
+    "id": 409,
+    "hd": false,
+    "icon": "Swayam_Prabha_30.png"
+  },
+  {
+    "name": "Swayam Prabha 31",
+    "link": "Swayam_Prabha_31",
+    "category": 17,
+    "language": 6,
+    "id": 410,
+    "hd": false,
+    "icon": "Swayam_Prabha_31.png"
+  },
+  {
+    "name": "Swayam Prabha 32",
+    "link": "Swayam_Prabha_32",
+    "category": 17,
+    "language": 6,
+    "id": 411,
+    "hd": false,
+    "icon": "Swayam_Prabha_32.png"
+  },
+  {
+    "name": "Swayam Prabha 33",
+    "link": "Swayam_Prabha_33",
+    "category": 17,
+    "language": 6,
+    "id": 1410,
+    "hd": false,
+    "icon": "Swayam_Prabha_33.png"
+  },
+  {
+    "name": "Vande Gujarat 1",
+    "link": "Vande_Gujarat_1",
+    "category": 17,
+    "language": 9,
+    "id": 1069,
+    "hd": false,
+    "icon": "Vande_Gujarat_1.png"
+  },
+  {
+    "name": "Vande Gujarat 2",
+    "link": "Vande_Gujarat_2",
+    "category": 17,
+    "language": 9,
+    "id": 1070,
+    "hd": false,
+    "icon": "Vande_Gujarat_2.png"
+  },
+  {
+    "name": "Vande Gujarat 3",
+    "link": "Vande_Gujarat_3",
+    "category": 17,
+    "language": 9,
+    "id": 1082,
+    "hd": false,
+    "icon": "Vande_Gujarat_3.png"
+  },
+  {
+    "name": "Vande Gujarat 4",
+    "link": "Vande_Gujarat_4",
+    "category": 17,
+    "language": 9,
+    "id": 1071,
+    "hd": false,
+    "icon": "Vande_Gujarat_4.png"
+  },
+  {
+    "name": "Vande Gujarat 5",
+    "link": "Vande_Gujarat_5",
+    "category": 17,
+    "language": 9,
+    "id": 1083,
+    "hd": false,
+    "icon": "Vande_Gujarat_5.png"
+  },
+  {
+    "name": "Vande Gujarat 6",
+    "link": "Vande_Gujarat_6",
+    "category": 17,
+    "language": 9,
+    "id": 1084,
+    "hd": false,
+    "icon": "Vande_Gujarat_6.png"
+  },
+  {
+    "name": "Vande Gujarat 7",
+    "link": "Vande_Gujarat_7",
+    "category": 17,
+    "language": 9,
+    "id": 1085,
+    "hd": false,
+    "icon": "Vande_Gujarat_7.png"
+  },
+  {
+    "name": "Vande Gujarat 8",
+    "link": "Vande_Gujarat_8",
+    "category": 17,
+    "language": 9,
+    "id": 1086,
+    "hd": false,
+    "icon": "Vande_Gujarat_8.png"
+  },
+  {
+    "name": "Vande Gujarat 9",
+    "link": "Vande_Gujarat_9",
+    "category": 17,
+    "language": 9,
+    "id": 1087,
+    "hd": false,
+    "icon": "Vande_Gujarat_9.png"
+  },
+  {
+    "name": "Vande Gujarat 10",
+    "link": "Vande_Gujarat_10",
+    "category": 17,
+    "language": 9,
+    "id": 1088,
+    "hd": false,
+    "icon": "Vande_Gujarat_10.png"
+  },
+  {
+    "name": "Vande Gujarat 11",
+    "link": "Vande_Gujarat_11",
+    "category": 17,
+    "language": 9,
+    "id": 1089,
+    "hd": false,
+    "icon": "Vande_Gujarat_11.png"
+  },
+  {
+    "name": "Vande Gujarat 12",
+    "link": "Vande_Gujarat_12",
+    "category": 17,
+    "language": 9,
+    "id": 1090,
+    "hd": false,
+    "icon": "Vande_Gujarat_12.png"
+  },
+  {
+    "name": "Vande Gujarat 13",
+    "link": "Vande_Gujarat_13",
+    "category": 17,
+    "language": 9,
+    "id": 1091,
+    "hd": false,
+    "icon": "Vande_Gujarat_13.png"
+  },
+  {
+    "name": "Vande Gujarat 14",
+    "link": "Vande_Gujarat_14",
+    "category": 17,
+    "language": 9,
+    "id": 1092,
+    "hd": false,
+    "icon": "Vande_Gujarat_14.png"
+  },
+  {
+    "name": "Vande Gujarat 15",
+    "link": "Vande_Gujarat_15",
+    "category": 17,
+    "language": 9,
+    "id": 1093,
+    "hd": false,
+    "icon": "Vande_Gujarat_15.png"
+  },
+  {
+    "name": "Vande Gujarat 16",
+    "link": "Vande_Gujarat_16",
+    "category": 17,
+    "language": 9,
+    "id": 1094,
+    "hd": false,
+    "icon": "Vande_Gujarat_16.png"
+  },
+  {
+    "name": "Gulistan News",
+    "link": "Gulistan_News",
+    "category": 12,
+    "language": 4,
+    "id": 807,
+    "hd": false,
+    "icon": "Gulistan_News.png"
+  },
+  {
+    "name": "Jan TV",
+    "link": "Jan_TV",
+    "category": 12,
+    "language": 1,
+    "id": 768,
+    "hd": false,
+    "icon": "Jan_TV.png"
+  },
+  {
+    "name": "Raj News Kannada",
+    "link": "Raj_News_Kannada",
+    "category": 12,
+    "language": 13,
+    "id": 651,
+    "hd": false,
+    "icon": "Raj_News_Kannada.png"
+  },
+  {
+    "name": "News18 Urdu",
+    "link": "ETV_Urdu",
+    "category": 12,
+    "language": 4,
+    "id": 694,
+    "hd": false,
+    "icon": "ETV_Urdu.png"
+  },
+  {
+    "name": "India News Haryana",
+    "link": "India_News_Haryana",
+    "category": 12,
+    "language": 1,
+    "id": 516,
+    "hd": false,
+    "icon": "India_News_Haryana.png"
+  },
+  {
+    "name": "India News Rajasthan",
+    "link": "India_News_Rajasthan",
+    "category": 12,
+    "language": 1,
+    "id": 513,
+    "hd": false,
+    "icon": "India_News_Rajasthan.png"
+  },
+  {
+    "name": "GS TV",
+    "link": "GS_TV",
+    "category": 12,
+    "language": 9,
+    "id": 643,
+    "hd": false,
+    "icon": "GS_TV.png"
+  },
+  {
+    "name": "MBC",
+    "link": "MBC",
+    "category": 12,
+    "language": 10,
+    "id": 631,
+    "hd": false,
+    "icon": "MBC.png"
+  },
+  {
+    "name": "Sahara Samay Bihar",
+    "link": "Sahara_Samay_Bihar",
+    "category": 12,
+    "language": 1,
+    "id": 509,
+    "hd": false,
+    "icon": "Sahara_Samay_Bihar.png"
+  },
+  {
+    "name": "Zee Hindustan",
+    "link": "Zee_SANGAM",
+    "category": 12,
+    "language": 1,
+    "id": 652,
+    "hd": false,
+    "icon": "Zee_SANGAM.png"
+  },
+  {
+    "name": "Testton",
+    "link": "Toonami",
+    "category": 7,
+    "language": 6,
+    "id": 551,
+    "hd": true,
+    "icon": "Toonami.png"
+  },
+  {
+    "name": "Hindi Khabar",
+    "link": "Hindi_Khabar",
+    "category": 12,
+    "language": 1,
+    "id": 808,
+    "hd": false,
+    "icon": "Hindi_Khabar.png"
+  },
+  {
+    "name": "Zee Punjabi HP Haryana",
+    "link": "Zee_Punjabi_HP_Haryana",
+    "category": 12,
+    "language": 3,
+    "id": 654,
+    "hd": false,
+    "icon": "Zee_Punjabi_HP_Haryana.png"
+  },
+  {
+    "name": "First India News",
+    "link": "First_India_News",
+    "category": 12,
+    "language": 1,
+    "id": 927,
+    "hd": false,
+    "icon": "First_India_News.png"
+  },
+  {
+    "name": "TV1",
+    "link": "TV1",
+    "category": 12,
+    "language": 11,
+    "id": 581,
+    "hd": false,
+    "icon": "TV1.png"
+  },
+  {
+    "name": "News11",
+    "link": "News11",
+    "category": 12,
+    "language": 1,
+    "id": 882,
+    "hd": false,
+    "icon": "News11.png"
+  },
+  {
+    "name": "R Plus",
+    "link": "RPLUS",
+    "category": 12,
+    "language": 5,
+    "id": 950,
+    "hd": false,
+    "icon": "RPLUS.png"
+  },
+  {
+    "name": "SAHARA SAMAY MP",
+    "link": "SAHARA_SAMAY_MP",
+    "category": 12,
+    "language": 1,
+    "id": 507,
+    "hd": false,
+    "icon": "SAHARA_SAMAY_MP.png"
+  },
+  {
+    "name": "Captain News",
+    "link": "Captain_News",
+    "category": 12,
+    "language": 8,
+    "id": 645,
+    "hd": false,
+    "icon": "Captain_News.png"
+  },
+  {
+    "name": "I News",
+    "link": "I_News",
+    "category": 12,
+    "language": 11,
+    "id": 790,
+    "hd": false,
+    "icon": "I_News.png"
+  },
+  {
+    "name": "News X",
+    "link": "News_X",
+    "category": 12,
+    "language": 6,
+    "id": 495,
+    "hd": false,
+    "icon": "News_X.png"
+  },
+  {
+    "name": "Mirror Now",
+    "link": "Magic_bricks_Now",
+    "category": 12,
+    "language": 6,
+    "id": 491,
+    "hd": false,
+    "icon": "Magic_bricks_Now.png"
+  },
+  {
+    "name": "India News MP",
+    "link": "India_News_MP",
+    "category": 12,
+    "language": 1,
+    "id": 515,
+    "hd": false,
+    "icon": "India_News_MP.png"
+  },
+  {
+    "name": "Sathiyam TV",
+    "link": "Sathiyam",
+    "category": 12,
+    "language": 8,
+    "id": 671,
+    "hd": false,
+    "icon": "Sathiyam.png"
+  },
+  {
+    "name": "Naxatra News",
+    "link": "Naxatra_News",
+    "category": 12,
+    "language": 10,
+    "id": 799,
+    "hd": false,
+    "icon": "Naxatra_News.png"
+  },
+  {
+    "name": "Zee UP UK",
+    "link": "Living_Foodz",
+    "category": 12,
+    "language": 1,
+    "id": 572,
+    "hd": false,
+    "icon": "Living_Foodz.png"
+  },
+  {
+    "name": "CNN",
+    "link": "CNN",
+    "category": 12,
+    "language": 6,
+    "id": 193,
+    "hd": false,
+    "icon": "CNN.png"
+  },
+  {
+    "name": "Chardikla Time TV",
+    "link": "Chardikla_Time_TV",
+    "category": 12,
+    "language": 3,
+    "id": 517,
+    "hd": false,
+    "icon": "Chardikla_Time_TV.png"
+  },
+  {
+    "name": "Sudarshan",
+    "link": "Sudarshan",
+    "category": 12,
+    "language": 1,
+    "id": 518,
+    "hd": false,
+    "icon": "Sudarshan.png"
+  },
+  {
+    "name": "JK 24x7 News",
+    "link": "JK_24x7_News",
+    "category": 12,
+    "language": 1,
+    "id": 789,
+    "hd": false,
+    "icon": "JK_24x7_News.png"
+  },
+  {
+    "name": "AL Jazeera",
+    "link": "AL_Jazeera",
+    "category": 12,
+    "language": 6,
+    "id": 494,
+    "hd": false,
+    "icon": "AL_Jazeera.png"
+  },
+  {
+    "name": "PTC News",
+    "link": "PTC_News",
+    "category": 12,
+    "language": 3,
+    "id": 1170,
+    "hd": false,
+    "icon": "PTC_News.png"
+  },
+  {
+    "name": "Taaza TV",
+    "link": "Taaza_TV",
+    "category": 12,
+    "language": 1,
+    "id": 791,
+    "hd": false,
+    "icon": "Taaza_TV.png"
+  },
+  {
+    "name": "Onkar Only Truth",
+    "link": "Onkar_Only_Truth",
+    "category": 12,
+    "language": 5,
+    "id": 973,
+    "hd": false,
+    "icon": "Onkar_Only_Truth.png"
+  },
+  {
+    "name": "Live Today",
+    "link": "Live_Today",
+    "category": 12,
+    "language": 1,
+    "id": 771,
+    "hd": false,
+    "icon": "Live_Today.png"
+  },
+  {
+    "name": "Sahara Samay Rastriya",
+    "link": "Sahara_Samay_Rastriya",
+    "category": 12,
+    "language": 1,
+    "id": 506,
+    "hd": false,
+    "icon": "Sahara_Samay_Rastriya.png"
+  },
+  {
+    "name": "Mojo TV",
+    "link": "Mojo_TV",
+    "category": 12,
+    "language": 11,
+    "id": 1147,
+    "hd": false,
+    "icon": "Mojo_TV.png"
+  },
+  {
+    "name": "Mh One News",
+    "link": "Mh_One_News",
+    "category": 12,
+    "language": 1,
+    "id": 511,
+    "hd": false,
+    "icon": "Mh_One_News.png"
+  },
+  {
+    "name": "Lotus News",
+    "link": "Lotus_News",
+    "category": 12,
+    "language": 8,
+    "id": 913,
+    "hd": false,
+    "icon": "Lotus_News.png"
+  },
+  {
+    "name": "Janta TV",
+    "link": "Janta_TV",
+    "category": 12,
+    "language": 1,
+    "id": 880,
+    "hd": false,
+    "icon": "Janta_TV.png"
+  },
+  {
+    "name": "News18 Haryana and HP News",
+    "link": "ETV_Haryana_and_HP_News",
+    "category": 12,
+    "language": 1,
+    "id": 655,
+    "hd": false,
+    "icon": "ETV_Haryana_and_HP_News.png"
+  },
+  {
+    "name": "Total TV",
+    "link": "Total_TV",
+    "category": 12,
+    "language": 1,
+    "id": 855,
+    "hd": false,
+    "icon": "Total_TV.png"
+  },
+  {
+    "name": "SAHARA SAMAY UP",
+    "link": "SAHARA_SAMAY_UP",
+    "category": 12,
+    "language": 1,
+    "id": 508,
+    "hd": false,
+    "icon": "SAHARA_SAMAY_UP.png"
+  },
+  {
+    "name": "Wion",
+    "link": "Wion",
+    "category": 12,
+    "language": 6,
+    "id": 412,
+    "hd": false,
+    "icon": "Wion.png"
+  },
+  {
+    "name": "Bharat Samachar",
+    "link": "Bharat_Samachar",
+    "category": 12,
+    "language": 1,
+    "id": 918,
+    "hd": false,
+    "icon": "Bharat_Samachar.png"
+  },
+  {
+    "name": "K News India",
+    "link": "K_News_India",
+    "category": 12,
+    "language": 1,
+    "id": 783,
+    "hd": false,
+    "icon": "K_News_India.png"
+  },
+  {
+    "name": "North East Live",
+    "link": "North_East_Live",
+    "category": 12,
+    "language": 14,
+    "id": 637,
+    "hd": false,
+    "icon": "North_East_Live.png"
+  },
+  {
+    "name": "Samay Rajasthan",
+    "link": "Samay_Rajasthan",
+    "category": 12,
+    "language": 1,
+    "id": 793,
+    "hd": false,
+    "icon": "Samay_Rajasthan.png"
+  },
+  {
+    "name": "Raj News Telugu",
+    "link": "Raj_News_Telugu",
+    "category": 12,
+    "language": 11,
+    "id": 664,
+    "hd": false,
+    "icon": "Raj_News_Telugu.png"
+  },
+  {
+    "name": "dw",
+    "link": "dw",
+    "category": 12,
+    "language": 6,
+    "id": 496,
+    "hd": false,
+    "icon": "dw.png"
+  },
+  {
+    "name": "Sadhna News TV",
+    "link": "Sadhna_Aryan_News",
+    "category": 12,
+    "language": 5,
+    "id": 1149,
+    "hd": false,
+    "icon": "Sadhna_Aryan_News.png"
+  },
+  {
+    "name": "Loksabha TV",
+    "link": "Loksabha_TV",
+    "category": 12,
+    "language": 1,
+    "id": 522,
+    "hd": false,
+    "icon": "Loksabha_TV.png"
+  },
+  {
+    "name": "Madhimugam TV",
+    "link": "Madhimugam_TV",
+    "category": 12,
+    "language": 8,
+    "id": 843,
+    "hd": false,
+    "icon": "Madhimugam_TV.png"
+  },
+  {
+    "name": "DD Rajyasabha",
+    "link": "DD_Rajyasabha",
+    "category": 12,
+    "language": 1,
+    "id": 520,
+    "hd": false,
+    "icon": "DD_Rajyasabha.png"
+  },
+  {
+    "name": "TV5 Monde",
+    "link": "TV_5_Monde",
+    "category": 12,
+    "language": 6,
+    "id": 885,
+    "hd": false,
+    "icon": "TV_5_Monde.png"
+  },
+  {
+    "name": "Win TV",
+    "link": "Win_TV",
+    "category": 12,
+    "language": 8,
+    "id": 970,
+    "hd": false,
+    "icon": "Win_TV.png"
+  },
+  {
+    "name": "Mantavya News",
+    "link": "Mantavya_News",
+    "category": 12,
+    "language": 9,
+    "id": 944,
+    "hd": false,
+    "icon": "Mantavya_News.png"
+  },
+  {
+    "name": "4 TV",
+    "link": "4_TV",
+    "category": 12,
+    "language": 4,
+    "id": 933,
+    "hd": false,
+    "icon": "4_TV.png"
+  },
+  {
+    "name": "News 1 India",
+    "link": "News_1_India",
+    "category": 12,
+    "language": 1,
+    "id": 936,
+    "hd": false,
+    "icon": "News_1_India.png"
+  },
+  {
+    "name": "MKN",
+    "link": "MK_News",
+    "category": 12,
+    "language": 2,
+    "id": 846,
+    "hd": false,
+    "icon": "MK_News.png"
+  },
+  {
+    "name": "APN News",
+    "link": "APN_News",
+    "category": 12,
+    "language": 1,
+    "id": 917,
+    "hd": false,
+    "icon": "APN_News.png"
+  },
+  {
+    "name": "News 9",
+    "link": "News_9",
+    "category": 12,
+    "language": 6,
+    "id": 656,
+    "hd": false,
+    "icon": "News_9.png"
+  },
+  {
+    "name": "Jaihind tv",
+    "link": "Jaihind_tv",
+    "category": 12,
+    "language": 7,
+    "id": 465,
+    "hd": false,
+    "icon": "Jaihind_tv.png"
+  },
+  {
+    "name": "Jeevan TV",
+    "link": "Jeevan_TV",
+    "category": 12,
+    "language": 7,
+    "id": 842,
+    "hd": false,
+    "icon": "Jeevan_TV.png"
+  },
+  {
+    "name": "TV 100",
+    "link": "TV_100",
+    "category": 12,
+    "language": 1,
+    "id": 916,
+    "hd": false,
+    "icon": "TV_100.png"
+  },
+  {
+    "name": "Bansal News",
+    "link": "Bansal_News",
+    "category": 12,
+    "language": 1,
+    "id": 1179,
+    "hd": false,
+    "icon": "Bansal_News.png"
+  },
+  {
+    "name": "India Voice",
+    "link": "India_Voice",
+    "category": 12,
+    "language": 1,
+    "id": 788,
+    "hd": false,
+    "icon": "India_Voice.png"
+  },
+  {
+    "name": "A1 TV Rajasthan",
+    "link": "A1_TV_Rajasthan",
+    "category": 12,
+    "language": 1,
+    "id": 926,
+    "hd": false,
+    "icon": "A1_TV_Rajasthan.png"
+  },
+  {
+    "name": "INH 24x7",
+    "link": "INH_24x7",
+    "category": 12,
+    "language": 1,
+    "id": 957,
+    "hd": false,
+    "icon": "INH_24x7.png"
+  },
+  {
+    "name": "GoodNews Channel",
+    "link": "GoodNews_Channel",
+    "category": 12,
+    "language": 6,
+    "id": 907,
+    "hd": false,
+    "icon": "GoodNews_Channel.png"
+  },
+  {
+    "name": "News India 24x7",
+    "link": "News_India_24_X_7",
+    "category": 12,
+    "language": 1,
+    "id": 850,
+    "hd": false,
+    "icon": "News_India_24_X_7.png"
+  },
+  {
+    "name": "Living India News",
+    "link": "Living_India_News",
+    "category": 12,
+    "language": 1,
+    "id": 831,
+    "hd": false,
+    "icon": "Living_India_News.png"
+  },
+  {
+    "name": "SMBC TV",
+    "link": "SMBC_TV",
+    "category": 12,
+    "language": 1,
+    "id": 851,
+    "hd": false,
+    "icon": "SMBC_TV.png"
+  },
+  {
+    "name": "Sadhna News Plus",
+    "link": "Sadhna_News_Plus",
+    "category": 12,
+    "language": 1,
+    "id": 519,
+    "hd": false,
+    "icon": "Sadhna_News_Plus.png"
+  },
+  {
+    "name": "Channel News Asia International",
+    "link": "Channel_News_Asia_International",
+    "category": 12,
+    "language": 6,
+    "id": 764,
+    "hd": false,
+    "icon": "Channel_News_Asia_International.png"
+  },
+  {
+    "name": "GOA 365",
+    "link": "Goa365",
+    "category": 12,
+    "language": 6,
+    "id": 421,
+    "hd": true,
+    "icon": "Goa365.png"
+  },
+  {
+    "name": "News World India",
+    "link": "News_World_India",
+    "category": 12,
+    "language": 1,
+    "id": 621,
+    "hd": false,
+    "icon": "News_World_India.png"
+  },
+  {
+    "name": "France 24",
+    "link": "France_24",
+    "category": 12,
+    "language": 16,
+    "id": 838,
+    "hd": false,
+    "icon": "France_24.png"
+  },
+  {
+    "name": "Raj News Malayalam",
+    "link": "Raj_News_Malayalam",
+    "category": 12,
+    "language": 7,
+    "id": 650,
+    "hd": false,
+    "icon": "Raj_News_Malayalam.png"
+  },
+  {
+    "name": "Prime News",
+    "link": "Prime_News",
+    "category": 12,
+    "language": 1,
+    "id": 921,
+    "hd": false,
+    "icon": "Prime_News.png"
+  },
+  {
+    "name": "Euro News",
+    "link": "Euro_News",
+    "category": 12,
+    "language": 6,
+    "id": 837,
+    "hd": false,
+    "icon": "Euro_News.png"
+  },
+  {
+    "name": "Prudent",
+    "link": "PrudentHD",
+    "category": 12,
+    "language": 1,
+    "id": 966,
+    "hd": true,
+    "icon": "PrudentHD.png"
+  },
+  {
+    "name": "Khabar Fast",
+    "link": "Khabar_Fast",
+    "category": 12,
+    "language": 1,
+    "id": 915,
+    "hd": false,
+    "icon": "Khabar_Fast.png"
+  },
+  {
+    "name": "JUS 24x7",
+    "link": "JUS24x7",
+    "category": 12,
+    "language": 3,
+    "id": 960,
+    "hd": true,
+    "icon": "JUS24x7.png"
+  },
+  {
+    "name": "RDX Goa",
+    "link": "RDX_News",
+    "category": 12,
+    "language": 6,
+    "id": 1102,
+    "hd": true,
+    "icon": "RDX_News.png"
+  },
+  {
+    "name": "Channel One News",
+    "link": "Channel_One_News",
+    "category": 12,
+    "language": 1,
+    "id": 920,
+    "hd": false,
+    "icon": "Channel_One_News.png"
+  },
+  {
+    "name": "CVR English",
+    "link": "CVR_English",
+    "category": 12,
+    "language": 6,
+    "id": 787,
+    "hd": false,
+    "icon": "CVR_English.png"
+  },
+  {
+    "name": "HNN 24x7",
+    "link": "HNN_24x7",
+    "category": 12,
+    "language": 1,
+    "id": 974,
+    "hd": false,
+    "icon": "HNN_24x7.png"
+  },
+  {
+    "name": "DNN",
+    "link": "DNN",
+    "category": 12,
+    "language": 1,
+    "id": 958,
+    "hd": false,
+    "icon": "DNN.png"
+  },
+  {
+    "name": "Jantantra",
+    "link": "Jantantra",
+    "category": 12,
+    "language": 1,
+    "id": 975,
+    "hd": false,
+    "icon": "Jantantra.png"
+  },
+  {
+    "name": "Raj News\u00a024x7",
+    "link": "Raj_News_24x7",
+    "category": 12,
+    "language": 8,
+    "id": 767,
+    "hd": false,
+    "icon": "Raj_News_24x7.png"
+  },
+  {
+    "name": "Sony Yay Telugu",
+    "link": "Sony_Yay_Telugu",
+    "category": 7,
+    "language": 11,
+    "id": 874,
+    "hd": false,
+    "icon": "Sony_Yay_Telugu.png"
+  },
+  {
+    "name": "Sony Yay Tamil",
+    "link": "Sony_Yay_Tamil",
+    "category": 7,
+    "language": 8,
+    "id": 873,
+    "hd": false,
+    "icon": "Sony_Yay_Tamil.png"
+  },
+  {
+    "name": "Nickelodeon Jr.",
+    "link": "Nickelodeon_Jr",
+    "category": 7,
+    "language": 6,
+    "id": 548,
+    "hd": false,
+    "icon": "Nickelodeon_Jr.png"
+  },
+  {
+    "name": "CN HD+ Tamil",
+    "link": "CN_HD_Tamil",
+    "category": 7,
+    "language": 8,
+    "id": 1081,
+    "hd": true,
+    "icon": "CN_HD_Tamil.png"
+  },
+  {
+    "name": "CN HD+ Telugu",
+    "link": "CN_HD_Telugu",
+    "category": 7,
+    "language": 11,
+    "id": 1080,
+    "hd": true,
+    "icon": "CN_HD_Telugu.png"
+  },
+  {
+    "name": "DD bharati",
+    "link": "DD_bharati",
+    "category": 10,
+    "language": 1,
+    "id": 580,
+    "hd": false,
+    "icon": "DD_bharati.png"
+  },
+  {
+    "name": "Care World",
+    "link": "Care_World",
+    "category": 10,
+    "language": 1,
+    "id": 582,
+    "hd": false,
+    "icon": "Care_World.png"
+  },
+  {
+    "name": "Insight",
+    "link": "Insight",
+    "category": 10,
+    "language": 6,
+    "id": 888,
+    "hd": true,
+    "icon": "Insight.png"
+  },
+  {
+    "name": "Home Shop 18",
+    "link": "home_shop_18",
+    "category": 18,
+    "language": 1,
+    "id": 439,
+    "hd": false,
+    "icon": "home_shop_18.png"
+  },
+  {
+    "name": "Nick Malayalam",
+    "link": "Nick_Malayalam",
+    "category": 7,
+    "language": 7,
+    "id": 1340,
+    "hd": false,
+    "icon": "Nick_Malayalam.png"
+  },
+  {
+    "name": "Nick Bangla",
+    "link": "Nick_Bangla",
+    "category": 7,
+    "language": 5,
+    "id": 1341,
+    "hd": false,
+    "icon": "Nick_Bangla.png"
+  },
+  {
+    "name": "Nick Marathi",
+    "link": "Nick_Marathi",
+    "category": 7,
+    "language": 2,
+    "id": 1342,
+    "hd": false,
+    "icon": "Nick_Marathi.png"
+  },
+  {
+    "name": "Nick Gujarati",
+    "link": "Nick_Gujarati",
+    "category": 7,
+    "language": 9,
+    "id": 1343,
+    "hd": false,
+    "icon": "Nick_Gujarati.png"
+  },
+  {
+    "name": "Sonic Malayalam",
+    "link": "Sonic_Malayalam",
+    "category": 7,
+    "language": 7,
+    "id": 1344,
+    "hd": false,
+    "icon": "Sonic_Malayalam.png"
+  },
+  {
+    "name": "Sonic Bangla",
+    "link": "Sonic_Bangla",
+    "category": 7,
+    "language": 5,
+    "id": 1345,
+    "hd": false,
+    "icon": "Sonic_Bangla.png"
+  },
+  {
+    "name": "Sonic Marathi",
+    "link": "Sonic_Marathi",
+    "category": 7,
+    "language": 2,
+    "id": 1346,
+    "hd": false,
+    "icon": "Sonic_Marathi.png"
+  },
+  {
+    "name": "Sonic Gujarati",
+    "link": "Sonic_Gujarati",
+    "category": 7,
+    "language": 9,
+    "id": 1347,
+    "hd": false,
+    "icon": "Sonic_Gujarati.png"
+  },
+  {
+    "name": "Maharashtra1",
+    "link": "Maharashtra1",
+    "category": 12,
+    "language": 2,
+    "id": 805,
+    "hd": false,
+    "icon": "Maharashtra1.png"
+  },
+  {
+    "name": "Digishala",
+    "link": "Digishala",
+    "category": 17,
+    "language": 9,
+    "id": 1227,
+    "hd": false,
+    "icon": "Digishala.png"
+  },
+  {
+    "name": "Top Tutor",
+    "link": "Top_Tutor",
+    "category": 17,
+    "language": 6,
+    "id": 1337,
+    "hd": false,
+    "icon": "Top_Tutor.png"
+  },
+  {
+    "name": "Gyan Brikshya",
+    "link": "Gyan_Brikshya",
+    "category": 17,
+    "language": 14,
+    "id": 1428,
+    "hd": false,
+    "icon": "Gyan_Brikshya.png"
+  },
+  {
+    "name": "KITE VICTERS",
+    "link": "KITE_Victers",
+    "category": 17,
+    "language": 7,
+    "id": 1429,
+    "hd": true,
+    "icon": "KITE_Victers.png"
+  },
+  {
+    "name": "TV Teacher",
+    "link": "TV_Teacher",
+    "category": 17,
+    "language": 6,
+    "id": 1447,
+    "hd": false,
+    "icon": "TV_Teacher.png"
+  },
+  {
+    "name": "Utkarsh Primary",
+    "link": "Utkarsh_Primary",
+    "category": 17,
+    "language": 1,
+    "id": 1434,
+    "hd": false,
+    "icon": "Utkarsh_Primary.png"
+  },
+  {
+    "name": "Utkarsh Middle",
+    "link": "Utkarsh_Middle",
+    "category": 17,
+    "language": 1,
+    "id": 1435,
+    "hd": false,
+    "icon": "Utkarsh_Middle.png"
+  },
+  {
+    "name": "Utkarsh Secondary",
+    "link": "Utkarsh_Secondary",
+    "category": 17,
+    "language": 1,
+    "id": 1436,
+    "hd": false,
+    "icon": "Utkarsh_Secondary.png"
+  },
+  {
+    "name": "Utkarsh Higher",
+    "link": "Utkarsh_Higher",
+    "category": 17,
+    "language": 1,
+    "id": 1437,
+    "hd": false,
+    "icon": "Utkarsh_Higher.png"
+  },
+  {
+    "name": "Meluha",
+    "link": "Meluha",
+    "category": 17,
+    "language": 6,
+    "id": 1439,
+    "hd": false,
+    "icon": "Meluha.png"
+  },
+  {
+    "name": "Mahawani 10th Marathi",
+    "link": "Mahawani_Marathi",
+    "category": 17,
+    "language": 2,
+    "id": 1442,
+    "hd": false,
+    "icon": "Mahawani_Marathi.png"
+  },
+  {
+    "name": "Mahawani 12th Science",
+    "link": "Mahawani_English",
+    "category": 17,
+    "language": 6,
+    "id": 1443,
+    "hd": false,
+    "icon": "Mahawani_English.png"
+  },
+  {
+    "name": "test6",
+    "link": "NDTV_India_Test2_ELE",
+    "category": 12,
+    "language": 1,
+    "id": 1062,
+    "hd": true,
+    "icon": "NDTV_India_Test2_ELE.png"
+  },
+  {
+    "name": "ABP Ganga",
+    "link": "ABP_Ganga",
+    "category": 12,
+    "language": 1,
+    "id": 1205,
+    "hd": false,
+    "icon": "ABP_Ganga.png"
+  },
+  {
+    "name": "Kalaignar TV",
+    "link": "Kalaignar_TV",
+    "category": 5,
+    "language": 8,
+    "id": 1209,
+    "hd": false,
+    "icon": "Kalaignar_TV.png"
+  },
+  {
+    "name": "Kalaignar Seithigal ",
+    "link": "Kalaignar_Seithigal_",
+    "category": 12,
+    "language": 8,
+    "id": 1210,
+    "hd": false,
+    "icon": "Kalaignar_Seithigal_.png"
+  },
+  {
+    "name": "Hare Krsna Pravachan",
+    "link": "Hare_Krsna_Pravachan",
+    "category": 15,
+    "language": 1,
+    "id": 1212,
+    "hd": true,
+    "icon": "Hare_Krsna_Pravachan.png"
+  },
+  {
+    "name": "JioCinema Shows",
+    "link": "JioCinema_Shows",
+    "category": 5,
+    "language": 1,
+    "id": 1213,
+    "hd": true,
+    "icon": "JioCinema_Shows.png"
+  },
+  {
+    "name": "JioCinema Action",
+    "link": "JioCinema_Action",
+    "category": 6,
+    "language": 1,
+    "id": 1214,
+    "hd": true,
+    "icon": "JioCinema_Action.png"
+  },
+  {
+    "name": "JioCinema Comedy",
+    "link": "JioCinema_Comedy",
+    "category": 6,
+    "language": 1,
+    "id": 1215,
+    "hd": true,
+    "icon": "JioCinema_Comedy.png"
+  },
+  {
+    "name": "Highbrow",
+    "link": "Highbrow",
+    "category": 7,
+    "language": 6,
+    "id": 1216,
+    "hd": true,
+    "icon": "Highbrow.png"
+  },
+  {
+    "name": "Lord Shri Vitthal Rukmini",
+    "link": "LordShri_Vitthal",
+    "category": 19,
+    "language": 2,
+    "id": 1217,
+    "hd": true,
+    "icon": "LordShri_Vitthal.png"
+  },
+  {
+    "name": "Animal Planet HD Tamil",
+    "link": "Animal_Planet_HD_Tamil",
+    "category": 10,
+    "language": 8,
+    "id": 1219,
+    "hd": true,
+    "icon": "Animal_Planet_HD_Tamil.png"
+  },
+  {
+    "name": "Rajyoga TV",
+    "link": "Rajyoga_TV",
+    "category": 15,
+    "language": 1,
+    "id": 1220,
+    "hd": true,
+    "icon": "Rajyoga_TV.png"
+  },
+  {
+    "name": "Rajyoga Malayalam",
+    "link": "Rajyoga_Malayalam",
+    "category": 15,
+    "language": 7,
+    "id": 1221,
+    "hd": true,
+    "icon": "Rajyoga_Malayalam.png"
+  },
+  {
+    "name": "Mandir Shri Govinddevji-Jaipur",
+    "link": "GovindDevji_Jaipur",
+    "category": 19,
+    "language": 1,
+    "id": 1222,
+    "hd": true,
+    "icon": "GovindDevji_Jaipur.png"
+  },
+  {
+    "name": "Dagdusheth Ganpati - Pune",
+    "link": "Dagdusheth_Pune",
+    "category": 19,
+    "language": 2,
+    "id": 1223,
+    "hd": true,
+    "icon": "Dagdusheth_Pune.png"
+  },
+  {
+    "name": "Nimbark TV",
+    "link": "Nimbark",
+    "category": 15,
+    "language": 1,
+    "id": 1224,
+    "hd": true,
+    "icon": "Nimbark.png"
+  },
+  {
+    "name": "Click Life",
+    "link": "Click_Life",
+    "category": 9,
+    "language": 1,
+    "id": 1225,
+    "hd": true,
+    "icon": "Click_Life.png"
+  },
+  {
+    "name": "Nick HD+",
+    "link": "Nick_HD_Plus",
+    "category": 7,
+    "language": 6,
+    "id": 1226,
+    "hd": true,
+    "icon": "Nick_HD+.png"
+  },
+  {
+    "name": "Ambabai Temple-Kolhapur",
+    "link": "Ambabai_Temple",
+    "category": 19,
+    "language": 2,
+    "id": 1228,
+    "hd": true,
+    "icon": "Ambabai_Temple.png"
+  },
+  {
+    "name": "God TV",
+    "link": "God_TV",
+    "category": 15,
+    "language": 6,
+    "id": 1241,
+    "hd": false,
+    "icon": "God_TV.png"
+  },
+  {
+    "name": "Sonic Telugu",
+    "link": "Sonic_Telugu",
+    "category": 7,
+    "language": 11,
+    "id": 1242,
+    "hd": false,
+    "icon": "Sonic_Telugu.png"
+  },
+  {
+    "name": "Sonic Kannada",
+    "link": "Sonic_Kannada",
+    "category": 7,
+    "language": 13,
+    "id": 1243,
+    "hd": false,
+    "icon": "Sonic_Kannada.png"
+  },
+  {
+    "name": "Nick Kannada",
+    "link": "Nick_Kannada",
+    "category": 7,
+    "language": 13,
+    "id": 1244,
+    "hd": false,
+    "icon": "Nick_Kannada.png"
+  },
+  {
+    "name": "Headlines Tripura",
+    "link": "Tripura_News",
+    "category": 12,
+    "language": 5,
+    "id": 1246,
+    "hd": false,
+    "icon": "Tripura_News.png"
+  },
+  {
+    "name": "Twenty Four News",
+    "link": "Twenty_Four_News",
+    "category": 12,
+    "language": 7,
+    "id": 1250,
+    "hd": false,
+    "icon": "TWENTY_FOUR_NEWS.png"
+  },
+  {
+    "name": "TV9 Bharatvarsh",
+    "link": "TV9_Bharatvarsh",
+    "category": 12,
+    "language": 1,
+    "id": 1251,
+    "hd": false,
+    "icon": "TV9_BHARATVARSH.png"
+  },
+  {
+    "name": "Tehzeeb TV",
+    "link": "Tehzeeb_TV",
+    "category": 10,
+    "language": 4,
+    "id": 1252,
+    "hd": false,
+    "icon": "TEHZEEB_TV.png"
+  },
+  {
+    "name": "Kolkata Live",
+    "link": "Kolkata_Live",
+    "category": 12,
+    "language": 5,
+    "id": 1253,
+    "hd": false,
+    "icon": "Kolkata_LIVE.png"
+  },
+  {
+    "name": "Aastha Telugu",
+    "link": "Aastha_Telugu",
+    "category": 15,
+    "language": 11,
+    "id": 1254,
+    "hd": false,
+    "icon": "Aastha_Telugu.png"
+  },
+  {
+    "name": "Aastha Tamil",
+    "link": "Aastha_Tamil",
+    "category": 15,
+    "language": 8,
+    "id": 1255,
+    "hd": false,
+    "icon": "Aastha_Tamil.png"
+  },
+  {
+    "name": "Aastha Kannada",
+    "link": "Aastha_Kannada",
+    "category": 15,
+    "language": 13,
+    "id": 1256,
+    "hd": false,
+    "icon": "Aastha_Kannada.png"
+  },
+  {
+    "name": "Surya Samachar",
+    "link": "Surya_Samachar",
+    "category": 12,
+    "language": 1,
+    "id": 1257,
+    "hd": false,
+    "icon": "Surya_Samachar.png"
+  },
+  {
+    "name": "Surya Cinema",
+    "link": "Surya_Cinema",
+    "category": 6,
+    "language": 1,
+    "id": 1258,
+    "hd": false,
+    "icon": "Surya_Cinema.png"
+  },
+  {
+    "name": "Surya Bhakti",
+    "link": "Surya_Bhakti",
+    "category": 15,
+    "language": 1,
+    "id": 1259,
+    "hd": false,
+    "icon": "Surya_Bhakti.png"
+  },
+  {
+    "name": "Ctvn Akd Plus",
+    "link": "Ctvn_Akd_Plus",
+    "category": 12,
+    "language": 5,
+    "id": 1260,
+    "hd": false,
+    "icon": "CTVN_AKD_Plus.png"
+  },
+  {
+    "name": "Calcutta News",
+    "link": "Calcutta_News",
+    "category": 12,
+    "language": 5,
+    "id": 1261,
+    "hd": false,
+    "icon": "Calcutta_News.png"
+  },
+  {
+    "name": "Total Tv Haryana",
+    "link": "Total_Tv_Haryana",
+    "category": 12,
+    "language": 1,
+    "id": 1263,
+    "hd": false,
+    "icon": "Total_Tv_Haryana.png"
+  },
+  {
+    "name": "Kolkata TV",
+    "link": "Kolkata_TV",
+    "category": 12,
+    "language": 5,
+    "id": 1264,
+    "hd": false,
+    "icon": "Kolkata_TV.png"
+  },
+  {
+    "name": "Global Sanjh",
+    "link": "Sanjh_TV",
+    "category": 10,
+    "language": 3,
+    "id": 1265,
+    "hd": false,
+    "icon": "Global_Sanjh.png"
+  },
+  {
+    "name": "Bflix Movies",
+    "link": "Bflix_Movies",
+    "category": 6,
+    "language": 1,
+    "id": 1266,
+    "hd": false,
+    "icon": "Bflix_Movies.png"
+  },
+  {
+    "name": "iLove",
+    "link": "iLove",
+    "category": 13,
+    "language": 1,
+    "id": 1267,
+    "hd": false,
+    "icon": "iLove.png"
+  },
+  {
+    "name": "ABZY Dhakad",
+    "link": "ABZY_Dhakad",
+    "category": 6,
+    "language": 1,
+    "id": 1268,
+    "hd": true,
+    "icon": "ABZY_Dhakad.png"
+  },
+  {
+    "name": "ABZY Cool",
+    "link": "ABZY_Cool",
+    "category": 6,
+    "language": 1,
+    "id": 1269,
+    "hd": true,
+    "icon": "ABZY_Cool.png"
+  },
+  {
+    "name": "ABZY Movies",
+    "link": "ABZY_Movies",
+    "category": 6,
+    "language": 1,
+    "id": 1270,
+    "hd": true,
+    "icon": "ABZY_Movies.png"
+  },
+  {
+    "name": "Sh Krishna Matta Adamaru Paryaya UDUPI",
+    "link": "Udupi_Krishna_Temple",
+    "category": 19,
+    "language": 13,
+    "id": 1271,
+    "hd": true,
+    "icon": "Udupi_Krishna_Temple.png"
+  },
+  {
+    "name": "Sugran",
+    "link": "Sugran",
+    "category": 9,
+    "language": 2,
+    "id": 1273,
+    "hd": false,
+    "icon": "Sugran.png"
+  },
+  {
+    "name": "Studio One",
+    "link": "Studio_One",
+    "category": 12,
+    "language": 11,
+    "id": 1274,
+    "hd": false,
+    "icon": "Studio_One.png"
+  },
+  {
+    "name": "Box Cinema",
+    "link": "Box_Cinema",
+    "category": 6,
+    "language": 1,
+    "id": 1276,
+    "hd": false,
+    "icon": "BOX_CINEMA.png"
+  },
+  {
+    "name": "Nireekshana TV",
+    "link": "Nireekshana_TV",
+    "category": 15,
+    "language": 11,
+    "id": 1277,
+    "hd": false,
+    "icon": "Nireekshana_TV.png"
+  },
+  {
+    "name": "Prarthana Bhawan",
+    "link": "Prarthana_Bhawan",
+    "category": 15,
+    "language": 1,
+    "id": 1278,
+    "hd": false,
+    "icon": "Prarthana_Bhawan.png"
+  },
+  {
+    "name": "Manoranjan Grand",
+    "link": "Manoranjan_Grand",
+    "category": 5,
+    "language": 1,
+    "id": 1279,
+    "hd": false,
+    "icon": "Manoranjan_Grand.png"
+  },
+  {
+    "name": "Manoranjan TV",
+    "link": "Manoranjan_TV",
+    "category": 6,
+    "language": 1,
+    "id": 1280,
+    "hd": false,
+    "icon": "Manoranjan_TV.png"
+  },
+  {
+    "name": "Manoranjan Movies",
+    "link": "Manoranjan_Movies",
+    "category": 6,
+    "language": 3,
+    "id": 1281,
+    "hd": false,
+    "icon": "Manoranjan_Movies.png"
+  },
+  {
+    "name": "Khushboo TV",
+    "link": "Khusboo_TV",
+    "category": 6,
+    "language": 5,
+    "id": 1282,
+    "hd": false,
+    "icon": "Khusboo_TV.png"
+  },
+  {
+    "name": "Mahavir Mandir Patna",
+    "link": "Hanuman_Mahavir_Temple",
+    "category": 19,
+    "language": 1,
+    "id": 1283,
+    "hd": true,
+    "icon": "Hanuman_Mahavir_Temple.png"
+  },
+  {
+    "name": "Vignesh TV",
+    "link": "Vignesh_TV",
+    "category": 15,
+    "language": 7,
+    "id": 1284,
+    "hd": true,
+    "icon": "Vignesh_TV.PNG"
+  },
+  {
+    "name": "Orange TV",
+    "link": "Orange_TV",
+    "category": 13,
+    "language": 5,
+    "id": 1285,
+    "hd": false,
+    "icon": "Orange_TV.png"
+  },
+  {
+    "name": "Insync",
+    "link": "Insync",
+    "category": 13,
+    "language": 1,
+    "id": 1286,
+    "hd": false,
+    "icon": "Insync.png"
+  },
+  {
+    "name": "ANB News",
+    "link": "ANB_News",
+    "category": 12,
+    "language": 1,
+    "id": 1287,
+    "hd": false,
+    "icon": "ANB_News.png"
+  },
+  {
+    "name": "Shri Omkareshwar Mandir",
+    "link": "Omkareshwar_Temple",
+    "category": 19,
+    "language": 1,
+    "id": 1288,
+    "hd": true,
+    "icon": "Omkareshwar_Temple.png"
+  },
+  {
+    "name": "Stars Tell",
+    "link": "StarTell",
+    "category": 9,
+    "language": 1,
+    "id": 1290,
+    "hd": false,
+    "icon": "StarTell.png"
+  },
+  {
+    "name": "ABP Sanjha",
+    "link": "ABP_Sanjha",
+    "category": 12,
+    "language": 3,
+    "id": 1291,
+    "hd": false,
+    "icon": "ABP_Sanjha.png"
+  },
+  {
+    "name": "Wellness",
+    "link": "Wellness_TV",
+    "category": 9,
+    "language": 1,
+    "id": 1292,
+    "hd": true,
+    "icon": "Wellness_TV.png"
+  },
+  {
+    "name": "Lokshahi News",
+    "link": "Lokshahi_News",
+    "category": 12,
+    "language": 2,
+    "id": 1293,
+    "hd": false,
+    "icon": "Lokshahi_News.png"
+  },
+  {
+    "name": "Eurosport",
+    "link": "Dsports",
+    "category": 8,
+    "language": 6,
+    "id": 1294,
+    "hd": false,
+    "icon": "Dsports.png"
+  },
+  {
+    "name": "B4U Kadak",
+    "link": "B4U_Kadak",
+    "category": 6,
+    "language": 1,
+    "id": 1295,
+    "hd": false,
+    "icon": "B4U_Kadak.png"
+  },
+  {
+    "name": "B4U Bhojpuri",
+    "link": "B4U_Bhojpuri",
+    "category": 6,
+    "language": 12,
+    "id": 1296,
+    "hd": false,
+    "icon": "B4U_Bhojpuri.png"
+  },
+  {
+    "name": "TV Bangla",
+    "link": "TV_Bangla",
+    "category": 12,
+    "language": 5,
+    "id": 1297,
+    "hd": true,
+    "icon": "TV_Bangla.png"
+  },
+  {
+    "name": "Manjari TV",
+    "link": "Manjari_TV",
+    "category": 5,
+    "language": 10,
+    "id": 1299,
+    "hd": false,
+    "icon": "Manjari_TV.png"
+  },
+  {
+    "name": "HHDL",
+    "link": "HHDL",
+    "category": 15,
+    "language": 6,
+    "id": 1315,
+    "hd": true,
+    "icon": "HHDL.png"
+  },
+  {
+    "name": "ISKCON Darshan",
+    "link": "Iskon_Temples_New",
+    "category": 19,
+    "language": 1,
+    "id": 1316,
+    "hd": true,
+    "icon": "Iskon_Temples_New.png"
+  },
+  {
+    "name": "Takht Sri Patna Sahib - Patna",
+    "link": "Sri_Patna_Sahib",
+    "category": 19,
+    "language": 3,
+    "id": 1317,
+    "hd": true,
+    "icon": "Sri_Patna_Sahib.png"
+  },
+  {
+    "name": "RT TV",
+    "link": "RT_TV",
+    "category": 12,
+    "language": 6,
+    "id": 1338,
+    "hd": false,
+    "icon": "RT_TV.png"
+  },
+  {
+    "name": "Reporter TV",
+    "link": "Reporter_TV",
+    "category": 12,
+    "language": 7,
+    "id": 1408,
+    "hd": false,
+    "icon": "Reporter_TV.png"
+  },
+  {
+    "name": "SongDew TV",
+    "link": "SongDew_TV",
+    "category": 13,
+    "language": 1,
+    "id": 1411,
+    "hd": false,
+    "icon": "SongDew_TV.png"
+  },
+  {
+    "name": "Shani Shingnapur",
+    "link": "Shani_Shingnapur",
+    "category": 15,
+    "language": 2,
+    "id": 1412,
+    "hd": true,
+    "icon": "Shani_Shingnapur.png"
+  },
+  {
+    "name": "Jhandewalan Delhi",
+    "link": "Jhandewalan_Delhi",
+    "category": 15,
+    "language": 1,
+    "id": 1413,
+    "hd": true,
+    "icon": "Jhandewalan_Delhi.png"
+  },
+  {
+    "name": "Prati Shirdi Saibaba",
+    "link": "Prati_Shirdi_Saibaba",
+    "category": 15,
+    "language": 1,
+    "id": 1414,
+    "hd": true,
+    "icon": "Prati_Shirdi_Saibaba.png"
+  },
+  {
+    "name": "Ganga Darshan Varanasi",
+    "link": "Ganga_Darshan_Varanasi",
+    "category": 15,
+    "language": 1,
+    "id": 1415,
+    "hd": true,
+    "icon": "Ganga_Darshan_Varanasi.png"
+  },
+  {
+    "name": "Ashtavinayak Ozar",
+    "link": "Ashtavinayak_Ozar",
+    "category": 15,
+    "language": 2,
+    "id": 1416,
+    "hd": true,
+    "icon": "Ashtavinayak_Ozar.png"
+  },
+  {
+    "name": "SVBC2",
+    "link": "SVBC2",
+    "category": 15,
+    "language": 8,
+    "id": 1417,
+    "hd": false,
+    "icon": "SVBC2.png"
+  },
+  {
+    "name": "Ichhapuran Balaji Rajasthan",
+    "link": "Ichhapuran_Balaji_Rajasthan",
+    "category": 15,
+    "language": 1,
+    "id": 1418,
+    "hd": true,
+    "icon": "Ichhapuran_Balaji_Rajasthan.png"
+  },
+  {
+    "name": "Iskon Girgaon",
+    "link": "Iskon_Girgaon",
+    "category": 15,
+    "language": 2,
+    "id": 1419,
+    "hd": true,
+    "icon": "Iskon_Girgaon.png"
+  },
+  {
+    "name": "Ashtavinayak Ranjangaon",
+    "link": "Ashtavinayak_Ranjangaon",
+    "category": 15,
+    "language": 2,
+    "id": 1420,
+    "hd": true,
+    "icon": "Ashtavinayak_Ranjangaon.png"
+  },
+  {
+    "name": "Karani Mata Rajasthan",
+    "link": "Karani_Mata_Rajasthan",
+    "category": 15,
+    "language": 1,
+    "id": 1421,
+    "hd": true,
+    "icon": "Karani_Mata_Rajasthan.png"
+  },
+  {
+    "name": "Mahalaxmi Mumbai",
+    "link": "Mahalaxmi_Mumbai",
+    "category": 15,
+    "language": 2,
+    "id": 1422,
+    "hd": true,
+    "icon": "Mahalaxmi_Mumbai.png"
+  },
+  {
+    "name": "Babulnaath Mumbai",
+    "link": "Babulnaath_Mumbai",
+    "category": 15,
+    "language": 2,
+    "id": 1423,
+    "hd": true,
+    "icon": "Babulnaath_Mumbai.png"
+  },
+  {
+    "name": "Mumbadevi Mumbai",
+    "link": "Mumbadevi_Mumbai",
+    "category": 15,
+    "language": 2,
+    "id": 1424,
+    "hd": true,
+    "icon": "Mumbadevi_Mumbai.png"
+  },
+  {
+    "name": "1Sports",
+    "link": "1Sports",
+    "category": 8,
+    "language": 6,
+    "id": 1425,
+    "hd": false,
+    "icon": "1Sports.png"
+  },
+  {
+    "name": "Santvani",
+    "link": "Santvani",
+    "category": 15,
+    "language": 1,
+    "id": 1426,
+    "hd": false,
+    "icon": "Santvani.png"
+  },
+  {
+    "name": "Nandighosha",
+    "link": "Nandighosha",
+    "category": 12,
+    "language": 10,
+    "id": 1427,
+    "hd": false,
+    "icon": "Nandighosha.png"
+  },
+  {
+    "name": "Jio KIDS",
+    "link": "Jio_KIDS",
+    "category": 7,
+    "language": 1,
+    "id": 1430,
+    "hd": true,
+    "icon": "Jio_KIDS.png"
+  },
+  {
+    "name": "BBC News Hindi",
+    "link": "BBC_Hindi",
+    "category": 12,
+    "language": 1,
+    "id": 1431,
+    "hd": true,
+    "icon": "BBC_Hindi.png"
+  },
+  {
+    "name": "TIME8",
+    "link": "TIME8",
+    "category": 12,
+    "language": 14,
+    "id": 1432,
+    "hd": true,
+    "icon": "TIME8.png"
+  },
+  {
+    "name": "Velukkudi Discourses",
+    "link": "Velukkudi_Discourses",
+    "category": 15,
+    "language": 8,
+    "id": 1438,
+    "hd": false,
+    "icon": "Velukkudi_Discourses.png"
+  },
+  {
+    "name": "Krishna Vani",
+    "link": "Krishna_Vani",
+    "category": 15,
+    "language": 1,
+    "id": 1440,
+    "hd": true,
+    "icon": "Krishna_Vani.png"
+  },
+  {
+    "name": "Wah Punjabi",
+    "link": "Wah_Punjabi",
+    "category": 13,
+    "language": 3,
+    "id": 1441,
+    "hd": true,
+    "icon": "Wah_Punjabi.png"
+  },
+  {
+    "name": "YTV India",
+    "link": "YTV_INDIA",
+    "category": 10,
+    "language": 6,
+    "id": 1444,
+    "hd": true,
+    "icon": "YTV_INDIA.png"
+  },
+  {
+    "name": "Mahawani 10th English",
+    "link": "Mahawani_10th_English",
+    "category": 17,
+    "language": 6,
+    "id": 1445,
+    "hd": false,
+    "icon": "Mahawani_10th_English.png"
+  },
+  {
+    "name": "M-LEAD",
+    "link": "M_lead",
+    "category": 17,
+    "language": 6,
+    "id": 1446,
+    "hd": false,
+    "icon": "M_lead.png"
+  }
+]
